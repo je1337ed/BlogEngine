@@ -1,0 +1,4143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPageView xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>65.55.106.229</UserHostAddress>
+    <PageUrl>skynetsoftware.net/Contact.aspx</PageUrl>
+    <UserAgent>msnbot/2.0b (+http://search.msn.com/msnbot.htm)</UserAgent>
+    <Browser>Unknown</Browser>
+    <Crawler>True</Crawler>
+    <Referrer />
+    <DateVisited>8/22/2009 10:36:18 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>72.30.79.58</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/08</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/22/2009 5:39:05 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>72.30.79.58</UserHostAddress>
+    <PageUrl>skynetsoftware.net/About.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/22/2009 2:06:24 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>212.33.200.5</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.google.com/search?sourceid=navclient&amp;ie=UTF-8&amp;rlz=1T4SPDA_enIR341&amp;q=download+software+skynet</Referrer>
+    <DateVisited>8/22/2009 6:55:43 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>66.249.67.18</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/InProgress/2009/07/10/FirstInProgressPost</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>True</Crawler>
+    <Referrer />
+    <DateVisited>8/21/2009 10:50:38 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>70.230.199.166</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.2) Gecko/2008092313 Ubuntu/8.04 (hardy) Firefox/3.1</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/21/2009 9:12:32 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>173.80.118.65</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.13) Gecko/2009073022 Firefox/3.0.13 (.NET CLR 3.5.30729)</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.google.com/search?hl=en&amp;client=firefox-a&amp;rls=org.mozilla:en-US:official&amp;hs=PuL&amp;q=Skynet+-+Software&amp;aq=f&amp;oq=&amp;aqi=g1</Referrer>
+    <DateVisited>8/21/2009 7:17:10 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>74.6.17.178</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/07</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/21/2009 12:49:21 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>66.249.67.18</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/07/09/FirstPostOnTheNewSite</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>True</Crawler>
+    <Referrer />
+    <DateVisited>8/21/2009 8:52:05 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>66.235.124.19</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/07/23/TheSingularityIsNearer</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Ask Jeeves/Teoma; +http://about.ask.com/en/docs/about/webmasters.shtml)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/21/2009 6:52:00 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>70.151.248.118</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.1.2) Gecko/20090729 Firefox/3.5.2</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/21/2009 6:33:35 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>66.235.124.19</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/07/17/ExploringJSTemplatesPart1</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Ask Jeeves/Teoma; +http://about.ask.com/en/docs/about/webmasters.shtml)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/21/2009 12:24:14 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>78.38.255.141</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 5.2; en-US; rv:1.8.1.12) Gecko/20080201 Firefox/2.0.0.12</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/20/2009 8:27:32 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>141.202.248.93</UserHostAddress>
+    <PageUrl>www.skynetsoftware.net/About.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; GIS IE 6.0 Build 20060616; .NET CLR 1.1.4322; .NET CLR 2.0.50727; MS-RTC LM 8; InfoPath.2)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.skynetsoftware.net/</Referrer>
+    <DateVisited>8/20/2009 6:33:58 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>141.202.248.93</UserHostAddress>
+    <PageUrl>www.skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; GIS IE 6.0 Build 20060616; .NET CLR 1.1.4322; .NET CLR 2.0.50727; MS-RTC LM 8; InfoPath.2)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://search.yahoo.com/search?p=skynet+software&amp;fr=yfp-t-501-s&amp;toggle=1&amp;cop=mss&amp;ei=UTF-8</Referrer>
+    <DateVisited>8/20/2009 6:33:37 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>121.44.173.157</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.1.2) Gecko/20090729 Firefox/3.5.2 (.NET CLR 3.5.30729)</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/20/2009 4:22:25 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>74.6.22.120</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/04</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/20/2009 1:15:12 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>94.183.194.30</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/04</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.0.4) Gecko/2008102920 Firefox/3.0.4</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://search.conduit.com/Results.aspx?q=skynet+software&amp;hl=en&amp;SelfSearch=1&amp;SearchSourceOrigin=1&amp;ctid=CT1563724&amp;octid=CT1563724</Referrer>
+    <DateVisited>8/20/2009 10:26:10 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>94.183.194.30</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.0.4) Gecko/2008102920 Firefox/3.0.4</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://search.conduit.com/Results.aspx?q=skynet+software&amp;hl=en&amp;SelfSearch=1&amp;SearchSourceOrigin=1&amp;ctid=CT1563724&amp;octid=CT1563724</Referrer>
+    <DateVisited>8/20/2009 10:24:43 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>74.6.22.120</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/20/2009 9:59:29 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>74.6.22.120</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/06/13/OurRockStarsArentLikeYourRockStars</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/20/2009 8:04:36 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>70.151.248.118</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/08</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.1.2) Gecko/20090729 Firefox/3.5.2</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://skynetsoftware.net/</Referrer>
+    <DateVisited>8/20/2009 7:38:18 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>64.246.178.34</UserHostAddress>
+    <PageUrl>www.skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>SurveyBot/2.3 (Whois Source)</UserAgent>
+    <Browser>Unknown</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://whois.domaintools.com/skynetsoftware.net</Referrer>
+    <DateVisited>8/20/2009 5:34:12 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>66.235.124.19</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/InProgress/2009/07/10/FirstInProgressPost</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Ask Jeeves/Teoma; +http://about.ask.com/en/docs/about/webmasters.shtml)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/20/2009 3:06:35 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>97.74.144.205</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/08</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>https://www.securepaynet.net/default.aspx?prog_id=451192</Referrer>
+    <DateVisited>8/20/2009 12:11:22 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>219.64.81.224</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/07</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/20/2009 12:10:46 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>219.64.81.224</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/04</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/20/2009 12:10:31 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>219.64.81.224</UserHostAddress>
+    <PageUrl>skynetsoftware.net/About.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/20/2009 12:10:11 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>219.64.81.224</UserHostAddress>
+    <PageUrl>skynetsoftware.net/Default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/20/2009 12:09:38 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>207.44.255.162</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/04/15/AddingFeaturesToTheSiteSlowly</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/20/2009 12:09:21 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>207.44.255.162</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/04/15/AddingFeaturesToTheSiteSlowly</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/20/2009 12:09:18 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>66.249.67.18</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/InProgress/2009/07/16/LookingAtPLINQ</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>True</Crawler>
+    <Referrer />
+    <DateVisited>8/19/2009 9:31:04 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>85.185.144.189</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.google.com/search?hl=en&amp;q=SkyNet+software&amp;aq=f&amp;oq=&amp;aqi=</Referrer>
+    <DateVisited>8/19/2009 1:14:33 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>38.100.41.66</UserHostAddress>
+    <PageUrl>www.skynetsoftware.net/archive/InProgress/2009/07/16/TakingJSTemplatesToTheNextLevel</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 7.0;  Windows NT 5.2)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.skynetsoftware.net/InProgress.aspx</Referrer>
+    <DateVisited>8/19/2009 7:48:03 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>38.100.41.66</UserHostAddress>
+    <PageUrl>www.skynetsoftware.net/archive/InProgress/2009/07/16/ExplorercanvasWhyDoPeopleFUDMicrosoft</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 7.0;  Windows NT 5.2)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.skynetsoftware.net/InProgress.aspx</Referrer>
+    <DateVisited>8/19/2009 7:48:00 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>38.100.41.66</UserHostAddress>
+    <PageUrl>www.skynetsoftware.net/archive/InProgress/2009/07/16/LookingAtPLINQ</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 7.0;  Windows NT 5.2)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.skynetsoftware.net/InProgress.aspx</Referrer>
+    <DateVisited>8/19/2009 7:47:55 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>38.100.41.66</UserHostAddress>
+    <PageUrl>www.skynetsoftware.net/archive/2009/06/07/ContentChanges</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 7.0;  Windows NT 5.2)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.skynetsoftware.net/</Referrer>
+    <DateVisited>8/19/2009 7:46:59 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>38.100.41.66</UserHostAddress>
+    <PageUrl>www.skynetsoftware.net/Default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 7.0;  Windows NT 5.2)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.skynetsoftware.net/</Referrer>
+    <DateVisited>8/19/2009 7:46:55 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>38.100.41.66</UserHostAddress>
+    <PageUrl>www.skynetsoftware.net/archive/2009/07/23/TheSingularityIsNearer</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 7.0;  Windows NT 5.2)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.skynetsoftware.net/</Referrer>
+    <DateVisited>8/19/2009 7:46:48 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>38.100.41.66</UserHostAddress>
+    <PageUrl>www.skynetsoftware.net/InProgress.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 7.0;  Windows NT 5.2)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.skynetsoftware.net/</Referrer>
+    <DateVisited>8/19/2009 7:46:42 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>38.100.41.66</UserHostAddress>
+    <PageUrl>www.skynetsoftware.net/archive/2009/07/09/FirstPostOnTheNewSite</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 7.0;  Windows NT 5.2)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.skynetsoftware.net/</Referrer>
+    <DateVisited>8/19/2009 7:46:36 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>38.100.41.66</UserHostAddress>
+    <PageUrl>www.skynetsoftware.net/archive/2009/07/17/ExploringJSTemplatesPart1</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 7.0;  Windows NT 5.2)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.skynetsoftware.net/</Referrer>
+    <DateVisited>8/19/2009 7:46:31 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>38.100.41.66</UserHostAddress>
+    <PageUrl>www.skynetsoftware.net/archive/2009/07</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 7.0;  Windows NT 5.2)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.skynetsoftware.net/</Referrer>
+    <DateVisited>8/19/2009 7:46:24 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>38.100.41.66</UserHostAddress>
+    <PageUrl>www.skynetsoftware.net/archive/2009/04/24/BehindTheBlogAnInsideLookAtWhatItTakesToDevelopABlogEngineFromScratch</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 7.0;  Windows NT 5.2)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.skynetsoftware.net/</Referrer>
+    <DateVisited>8/19/2009 7:46:17 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>38.100.41.66</UserHostAddress>
+    <PageUrl>www.skynetsoftware.net/archive/2009/08/17/JavascriptClientSideSearchGridControl</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 7.0;  Windows NT 5.2)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.skynetsoftware.net/</Referrer>
+    <DateVisited>8/19/2009 7:46:15 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>38.100.41.66</UserHostAddress>
+    <PageUrl>www.skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 7.0;  Windows NT 5.2)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/19/2009 7:45:59 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>76.73.37.234</UserHostAddress>
+    <PageUrl>www.skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible)</UserAgent>
+    <Browser>Netscape</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/19/2009 6:05:52 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>65.55.207.138</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/06</PageUrl>
+    <UserAgent>msnbot/2.0b (+http://search.msn.com/msnbot.htm)</UserAgent>
+    <Browser>Unknown</Browser>
+    <Crawler>True</Crawler>
+    <Referrer />
+    <DateVisited>8/19/2009 3:44:48 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>67.191.11.125</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/530.5 (KHTML, like Gecko) Chrome/2.0.172.39 Safari/530.5</UserAgent>
+    <Browser>AppleMAC-Safari</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/18/2009 11:46:14 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>65.55.106.115</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/04/09/FirstPostOnTheNewSite</PageUrl>
+    <UserAgent>msnbot/2.0b (+http://search.msn.com/msnbot.htm)</UserAgent>
+    <Browser>Unknown</Browser>
+    <Crawler>True</Crawler>
+    <Referrer />
+    <DateVisited>8/18/2009 9:28:09 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>85.214.113.101</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/08</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/18/2009 9:00:42 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>62.149.211.207</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/06</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/18/2009 8:59:26 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>62.149.211.207</UserHostAddress>
+    <PageUrl>skynetsoftware.net/Contact.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/18/2009 8:59:15 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>62.149.211.207</UserHostAddress>
+    <PageUrl>skynetsoftware.net/InProgress.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/18/2009 8:59:04 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>88.191.63.27</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/18/2009 8:58:42 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>88.191.63.27</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/04/15/AddingFeaturesToTheSiteSlowly</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://skynetsoftware.net/archive/2009/04/15/AddingFeaturesToTheSiteSlowly</Referrer>
+    <DateVisited>8/18/2009 8:58:40 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>88.191.63.27</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/18/2009 8:58:37 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>72.30.142.179</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/07/23/TheSingularityIsNearer</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/18/2009 5:41:31 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>70.177.210.20</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.5.30729; .NET CLR 3.0.30729)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.google.com/search?q=Skynet+Software&amp;rls=com.microsoft:en-us:IE-SearchBox&amp;ie=UTF-8&amp;oe=UTF-8&amp;sourceid=ie7&amp;rlz=1I7TSHB</Referrer>
+    <DateVisited>8/18/2009 4:02:38 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>65.55.208.156</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/06/07/SysnetwebserviceproxyinvokeWrapperForJquery</PageUrl>
+    <UserAgent>msnbot/1.1 (+http://search.msn.com/msnbot.htm)</UserAgent>
+    <Browser>Unknown</Browser>
+    <Crawler>True</Crawler>
+    <Referrer />
+    <DateVisited>8/18/2009 3:20:33 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>70.151.248.118</UserHostAddress>
+    <PageUrl>www.skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.1.2) Gecko/20090729 Firefox/3.5.2 (.NET CLR 3.5.30729)</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/18/2009 2:09:22 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>66.249.67.18</UserHostAddress>
+    <PageUrl>skynetsoftware.net/About.aspx</PageUrl>
+    <UserAgent>DoCoMo/2.0 N905i(c100;TB;W24H16) (compatible; Googlebot-Mobile/2.1; +http://www.google.com/bot.html)</UserAgent>
+    <Browser>i-mode</Browser>
+    <Crawler>True</Crawler>
+    <Referrer />
+    <DateVisited>8/18/2009 1:33:52 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>70.151.248.118</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; WOW64; Trident/4.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.5.30729; .NET CLR 3.0.30729; InfoPath.2)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/18/2009 1:09:38 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>72.30.142.179</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/07/18/FightingBlogSpam</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/18/2009 9:15:27 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>72.30.142.179</UserHostAddress>
+    <PageUrl>skynetsoftware.net/Contact.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/18/2009 8:49:49 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>65.49.2.13</UserHostAddress>
+    <PageUrl>skynetsoftware.net/InProgress.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.04506; InfoPath.3)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://skynetsoftware.net/Default.aspx</Referrer>
+    <DateVisited>8/18/2009 5:33:03 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>65.49.2.23</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.04506; InfoPath.3)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.google.com/search?hl=fa&amp;lr=&amp;ei=KJeKSs_-I5DKsQPewo3BDQ&amp;sa=X&amp;oi=spell&amp;resnum=0&amp;ct=result&amp;cd=1&amp;q=software+skynet&amp;spell=1</Referrer>
+    <DateVisited>8/18/2009 4:58:09 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>174.133.28.162</UserHostAddress>
+    <PageUrl>skynetsoftware.net/Contact.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.0.3705)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/18/2009 3:55:06 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>174.133.28.162</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.0.3705)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/18/2009 3:55:05 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>193.173.111.185</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/06/07/SysnetwebserviceproxyinvokeWrapperForJquery</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 5.1; nl; rv:1.9.1.2) Gecko/20090729 Firefox/3.5.2 (.NET CLR 3.5.30729)</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.google.nl/search?client=firefox-a&amp;rls=org.mozilla:nl:official&amp;channel=s&amp;hl=nl&amp;q=Sys.Net.WebServiceProxy&amp;meta=&amp;btnG=Google+zoeken</Referrer>
+    <DateVisited>8/17/2009 11:53:31 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>216.199.238.207</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.1.2) Gecko/20090729 Firefox/3.5.2 (.NET CLR 4.0.20506)</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/17/2009 8:06:13 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>216.199.238.207</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/530.5 (KHTML, like Gecko) Chrome/2.0.172.39 Safari/530.5</UserAgent>
+    <Browser>AppleMAC-Safari</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/17/2009 7:58:49 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>200.44.179.90</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/06</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/17/2009 7:56:48 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>119.27.62.254</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/06</PageUrl>
+    <UserAgent>Mozilla/4.0</UserAgent>
+    <Browser>Netscape</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/17/2009 7:56:13 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>119.27.62.254</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/04</PageUrl>
+    <UserAgent>Mozilla/4.0</UserAgent>
+    <Browser>Netscape</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/17/2009 7:55:57 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>195.229.62.157</UserHostAddress>
+    <PageUrl>skynetsoftware.net/About.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/17/2009 7:55:26 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>195.229.62.157</UserHostAddress>
+    <PageUrl>skynetsoftware.net/Default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/17/2009 7:54:53 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>41.210.252.11</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/17/2009 7:54:05 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>41.210.252.11</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/04/15/AddingFeaturesToTheSiteSlowly</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://skynetsoftware.net/archive/2009/04/15/AddingFeaturesToTheSiteSlowly</Referrer>
+    <DateVisited>8/17/2009 7:54:02 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>41.210.252.11</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/17/2009 7:53:58 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>75.151.65.65</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/3.0.191.3 Safari/531.2</UserAgent>
+    <Browser>AppleMAC-Safari</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.google.com/search?hl=en&amp;q=remove+skynet+software&amp;aq=f&amp;oq=&amp;aqi=</Referrer>
+    <DateVisited>8/17/2009 1:53:50 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>189.18.213.105</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://siderite.blogspot.com/2009/04/godel-escher-bach-one-of-best-books-ive.html</Referrer>
+    <DateVisited>8/17/2009 12:47:07 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>216.110.120.29</UserHostAddress>
+    <PageUrl>skynetsoftware.net/Default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://skynetsoftware.net/Contact.aspx</Referrer>
+    <DateVisited>8/17/2009 11:58:25 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>216.110.120.29</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.google.com.vc/search?hl=en&amp;q=Sky+Net+Software+&amp;btnG=Search</Referrer>
+    <DateVisited>8/17/2009 11:58:08 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>81.143.8.65</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.0.3) Gecko/2008092417 Firefox/3.0.3</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.google.co.uk/search?q=Skynet+Software&amp;ie=utf-8&amp;oe=utf-8&amp;aq=t&amp;rls=org.mozilla:en-GB:official&amp;client=firefox-a</Referrer>
+    <DateVisited>8/17/2009 3:08:34 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>213.192.60.19</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/07</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 7.0b; Windows NT 6.0)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/17/2009 1:13:15 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>212.33.206.102</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/07/17/ExploringJSTemplatesPart1</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; InfoPath.2)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.google.com/search?hl=en&amp;q=skynet+software&amp;aq=0s&amp;oq=skynetso&amp;aqi=g-s4</Referrer>
+    <DateVisited>8/16/2009 11:16:13 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>66.249.67.18</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/04</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>True</Crawler>
+    <Referrer />
+    <DateVisited>8/16/2009 9:23:23 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>84.180.161.116</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; xrss; robot; http://www.xrss.eu/robot; version 2.0)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/16/2009 2:04:43 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>116.68.66.91</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/530.5 (KHTML, like Gecko) Chrome/2.0.172.30 Safari/530.5</UserAgent>
+    <Browser>AppleMAC-Safari</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.google.co.in/search?hl=en&amp;q=skynet+browser&amp;meta=&amp;aq=0&amp;oq=skynet+browse</Referrer>
+    <DateVisited>8/16/2009 10:44:07 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>67.191.11.125</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; WOW64; Trident/4.0; Comcast Install 1.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.5.30729; .NET CLR 3.0.30618; .NET CLR 4.0.20506)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://localhost:56305/NewStuff/JsPageTracking.htm</Referrer>
+    <DateVisited>8/16/2009 7:13:46 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>67.191.11.125</UserHostAddress>
+    <PageUrl>skynetsoftware.net/Default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.0.12) Gecko/2009070611 Firefox/3.0.12 (.NET CLR 4.0.20506)</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/16/2009 4:50:56 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>67.191.11.125</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.0.12) Gecko/2009070611 Firefox/3.0.12 (.NET CLR 4.0.20506)</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/16/2009 4:50:44 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>67.191.11.125</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; WOW64; Trident/4.0; Comcast Install 1.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.5.30729; .NET CLR 3.0.30618; .NET CLR 4.0.20506)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://localhost:56305/NewStuff/JsPageTracking.htm</Referrer>
+    <DateVisited>8/16/2009 4:33:32 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>66.249.67.18</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/InProgress/2009/07/16/LookingAtPLINQ</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>True</Crawler>
+    <Referrer />
+    <DateVisited>8/16/2009 12:05:51 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>195.69.208.4</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.google.com.lb/search?hl=ar&amp;q=Sky+Net+Program&amp;btnG=بحث!&amp;meta=</Referrer>
+    <DateVisited>8/15/2009 7:15:04 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>213.207.221.182</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB6; InfoPath.2; .NET CLR 2.0.50727)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.google.com/search?hl=en&amp;q=SKYNET+SOFTWARE&amp;btnG=Google+Search&amp;aq=f&amp;oq=&amp;aqi=</Referrer>
+    <DateVisited>8/14/2009 11:34:06 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>66.249.67.18</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>True</Crawler>
+    <Referrer />
+    <DateVisited>8/14/2009 7:30:40 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>85.80.193.123</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 5.1; da; rv:1.9.0.13) Gecko/2009073022 Firefox/3.0.13 (.NET CLR 3.5.30729)</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.google.dk/url?sa=t&amp;source=web&amp;ct=res&amp;cd=9&amp;url=http://skynetsoftware.net/&amp;ei=BuGFSrLBNozx-Qbgooy7CQ&amp;rct=j&amp;q=Request.UrlReferrer+delay&amp;usg=AFQjCNEu6YA1bqKGp3oU2KQLxsw_GRo-9w</Referrer>
+    <DateVisited>8/14/2009 3:13:37 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>70.151.248.118</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.1.2) Gecko/20090729 Firefox/3.5.2 (.NET CLR 3.5.30729)</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/14/2009 2:05:11 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>66.198.41.20</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.2; OfficeLiveConnector.1.3; OfficeLivePatch.0.0)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.google.com/search?hl=en&amp;q=skynet+software</Referrer>
+    <DateVisited>8/14/2009 7:50:55 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>65.55.106.180</UserHostAddress>
+    <PageUrl>skynetsoftware.net/InProgress.aspx</PageUrl>
+    <UserAgent>msnbot/2.0b (+http://search.msn.com/msnbot.htm)</UserAgent>
+    <Browser>Unknown</Browser>
+    <Crawler>True</Crawler>
+    <Referrer />
+    <DateVisited>8/14/2009 2:21:44 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>194.176.105.44</UserHostAddress>
+    <PageUrl>skynetsoftware.net/Default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.1.2) Gecko/20090729 Firefox/3.5.2</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://skynetsoftware.net/</Referrer>
+    <DateVisited>8/14/2009 12:37:45 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>85.9.109.26</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.04506)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.google.com/search?hl=en&amp;q=skynet+software&amp;btnG=Search</Referrer>
+    <DateVisited>8/14/2009 12:14:35 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>89.165.16.205</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.google.com/search?hl=en&amp;ei=RgKFSqSUO9mh_AbEzrmzBw&amp;sa=X&amp;oi=spell&amp;resnum=0&amp;ct=result&amp;cd=1&amp;q=skynet+software&amp;spell=1</Referrer>
+    <DateVisited>8/13/2009 11:21:19 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>119.93.229.211</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/07</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:26:40 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>119.93.229.211</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/04</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:26:17 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>119.93.229.211</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/InProgress/2009/07/16/TakingJSTemplatesToTheNextLevel</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:26:06 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>174.37.96.18</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/07</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:25:58 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>174.37.96.18</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/04</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:25:58 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>174.37.96.18</UserHostAddress>
+    <PageUrl>skynetsoftware.net/About.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:25:57 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>174.37.96.18</UserHostAddress>
+    <PageUrl>skynetsoftware.net/Default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:25:57 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>92.250.253.25</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/07</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:25:41 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>202.45.126.99</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/07/26/TrackingPageviewDataUsingSystemwebroutingWithASPNETWebforms</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:25:39 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>119.93.229.211</UserHostAddress>
+    <PageUrl>skynetsoftware.net/About.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:25:32 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>66.253.105.67</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/04</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:25:26 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>66.253.105.67</UserHostAddress>
+    <PageUrl>skynetsoftware.net/Contact.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:25:25 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>66.253.105.67</UserHostAddress>
+    <PageUrl>skynetsoftware.net/About.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:25:24 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>66.253.105.67</UserHostAddress>
+    <PageUrl>skynetsoftware.net/Default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:25:23 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>66.253.105.67</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/InProgress/2009/07/23/BiomimicryACallToArms</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:25:18 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>66.253.105.67</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/InProgress/2009/07/23/BiomimicryACallToArms</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:25:15 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>119.93.229.211</UserHostAddress>
+    <PageUrl>skynetsoftware.net/Default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:25:10 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>163.21.212.200</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/07/09/FirstPostOnTheNewSite</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:25:08 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>163.21.212.200</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/07/09/FirstPostOnTheNewSite</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:25:05 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>114.127.246.36</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/07</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:24:50 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>93.152.148.101</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/07/17/ExploringJSTemplatesPart1</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:24:49 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>93.152.148.101</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/07/17/ExploringJSTemplatesPart1</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://skynetsoftware.net/archive/2009/07/17/ExploringJSTemplatesPart1</Referrer>
+    <DateVisited>8/13/2009 2:24:47 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>93.152.148.101</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/07/17/ExploringJSTemplatesPart1</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:24:45 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>193.171.32.6</UserHostAddress>
+    <PageUrl>skynetsoftware.net/Contact.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:24:45 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>193.171.32.6</UserHostAddress>
+    <PageUrl>skynetsoftware.net/About.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:24:43 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>114.127.246.36</UserHostAddress>
+    <PageUrl>skynetsoftware.net/Default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:24:41 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>66.99.109.3</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/07</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:24:38 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>193.171.32.6</UserHostAddress>
+    <PageUrl>skynetsoftware.net/Default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:24:35 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>66.99.109.3</UserHostAddress>
+    <PageUrl>skynetsoftware.net/Contact.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:24:33 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>66.99.109.3</UserHostAddress>
+    <PageUrl>skynetsoftware.net/About.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:24:31 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>83.236.141.202</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/07/18/FightingBlogSpam</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:24:30 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>83.236.141.202</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/07/18/FightingBlogSpam</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://skynetsoftware.net/archive/2009/07/18/FightingBlogSpam</Referrer>
+    <DateVisited>8/13/2009 2:24:29 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>83.236.141.202</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/07/18/FightingBlogSpam</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:24:27 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>193.171.32.6</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/InProgress/2009/07/16/TakingJSTemplatesToTheNextLevel</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:24:24 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>69.181.180.101</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/07</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:24:20 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>69.181.180.101</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/04</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:24:20 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>69.181.180.101</UserHostAddress>
+    <PageUrl>skynetsoftware.net/About.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:24:19 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>69.181.180.101</UserHostAddress>
+    <PageUrl>skynetsoftware.net/Default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:24:18 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>69.181.180.101</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/InProgress/2009/07/10/FirstInProgressPost</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:24:17 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>69.181.180.101</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/InProgress/2009/07/10/FirstInProgressPost</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:24:17 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>221.178.181.197</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/07/23/TheSingularityIsNearer</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://skynetsoftware.net/archive/2009/07/23/TheSingularityIsNearer</Referrer>
+    <DateVisited>8/13/2009 2:24:14 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>96.52.62.168</UserHostAddress>
+    <PageUrl>skynetsoftware.net/Default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.0.13) Gecko/2009073022 Firefox/3.0.13 (.NET CLR 3.5.30729)</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://skynetsoftware.net/InProgress.aspx</Referrer>
+    <DateVisited>8/13/2009 2:09:14 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>69.58.178.26</UserHostAddress>
+    <PageUrl>www.skynetsoftware.net/archive/2009/07/17/ExploringJSTemplatesPart1</PageUrl>
+    <UserAgent>Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.12; ips-agent) Gecko/20050922 Fedora/1.0.7-1.1.fc4 Firefox/1.0.7</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:04:45 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>69.58.178.26</UserHostAddress>
+    <PageUrl>www.skynetsoftware.net/archive/2009/07/18/FightingBlogSpam</PageUrl>
+    <UserAgent>Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.12; ips-agent) Gecko/20050922 Fedora/1.0.7-1.1.fc4 Firefox/1.0.7</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:04:42 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>69.58.178.26</UserHostAddress>
+    <PageUrl>www.skynetsoftware.net/archive/2009/07/26/TrackingPageviewDataUsingSystemwebroutingWithASPNETWebforms</PageUrl>
+    <UserAgent>Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.12; ips-agent) Gecko/20050922 Fedora/1.0.7-1.1.fc4 Firefox/1.0.7</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:04:39 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>69.58.178.26</UserHostAddress>
+    <PageUrl>www.skynetsoftware.net/Default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.12; ips-agent) Gecko/20050922 Fedora/1.0.7-1.1.fc4 Firefox/1.0.7</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:04:35 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>69.58.178.26</UserHostAddress>
+    <PageUrl>www.skynetsoftware.net/About.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.12; ips-agent) Gecko/20050922 Fedora/1.0.7-1.1.fc4 Firefox/1.0.7</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:04:33 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>96.52.62.168</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.0.13) Gecko/2009073022 Firefox/3.0.13 (.NET CLR 3.5.30729)</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.google.ca/search?q=skynet+software&amp;ie=utf-8&amp;oe=utf-8&amp;aq=t&amp;rls=org.mozilla:en-US:official&amp;client=firefox-a</Referrer>
+    <DateVisited>8/13/2009 2:03:04 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>12.228.32.34</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.2) Gecko/20090729 Firefox/3.5.2 (.NET CLR 3.5.30729)</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 12:18:19 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>65.55.208.149</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/06</PageUrl>
+    <UserAgent>msnbot/1.1 (+http://search.msn.com/msnbot.htm)</UserAgent>
+    <Browser>Unknown</Browser>
+    <Crawler>True</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 12:11:53 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>150.70.84.43</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 9:40:36 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>66.249.67.18</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/InProgress/2009/07/16/ExplorercanvasWhyDoPeopleFUDMicrosoft</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>True</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 9:04:55 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>203.122.53.20</UserHostAddress>
+    <PageUrl>skynetsoftware.net/About.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://skynetsoftware.net/</Referrer>
+    <DateVisited>8/13/2009 8:33:35 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>65.55.208.144</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/InProgress/2009/07/16/ExplorercanvasWhyDoPeopleFUDMicrosoft</PageUrl>
+    <UserAgent>msnbot/1.1 (+http://search.msn.com/msnbot.htm)</UserAgent>
+    <Browser>Unknown</Browser>
+    <Crawler>True</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 8:29:22 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>70.151.248.118</UserHostAddress>
+    <PageUrl>skynetsoftware.net/About.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.1.2) Gecko/20090729 Firefox/3.5.2 (.NET CLR 3.5.30729)</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://skynetsoftware.net/InProgress.aspx</Referrer>
+    <DateVisited>8/13/2009 6:32:01 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>70.151.248.118</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.1.2) Gecko/20090729 Firefox/3.5.2 (.NET CLR 3.5.30729)</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.demetreaus.com/</Referrer>
+    <DateVisited>8/13/2009 6:28:24 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>72.30.65.53</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/06</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 6:13:20 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>145.8.104.65</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.1.2) Gecko/20090729 Firefox/3.5.2 (.NET CLR 3.5.30729)</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.google.co.uk/search?hl=en&amp;lr=&amp;safe=off&amp;ei=OgSESsnSM46qsAaE19zxBw&amp;sa=X&amp;oi=spell&amp;resnum=0&amp;ct=result&amp;cd=1&amp;q=SkyNet+Software&amp;spell=1</Referrer>
+    <DateVisited>8/13/2009 5:17:30 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>65.55.208.156</UserHostAddress>
+    <PageUrl>skynetsoftware.net/InProgress.aspx</PageUrl>
+    <UserAgent>msnbot/1.1 (+http://search.msn.com/msnbot.htm)</UserAgent>
+    <Browser>Unknown</Browser>
+    <Crawler>True</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 1:09:05 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>74.236.63.203</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (iPod; U; CPU iPhone OS 2_1_1 like Mac OS X; en-us) AppleWebKit/525.18.1 (KHTML, like Gecko) Version/3.1.1 Mobile/5F138 Safari/525.20</UserAgent>
+    <Browser>AppleMAC-Safari</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/12/2009 9:17:58 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>66.41.128.46</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.google.com/search?hl=en&amp;q=skynet+software&amp;aq=f&amp;oq=&amp;aqi=</Referrer>
+    <DateVisited>8/12/2009 4:00:33 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>67.218.116.164</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/06/13/OurRockStarsArentLikeYourRockStars</PageUrl>
+    <UserAgent>Mozilla/5.0 (Twiceler-0.9 http://www.cuil.com/twiceler/robot.html)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/12/2009 8:57:01 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>212.98.185.58</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/06/07/SysnetwebserviceproxyinvokeWrapperForJquery</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.13) Gecko/2009073022 Firefox/3.0.13 (.NET CLR 3.5.30729)</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.google.ru/search?hl=ru&amp;newwindow=1&amp;q=Sys.Net.WebServiceProxy.invoke+post+request&amp;btnG=Поиск&amp;lr=&amp;aq=f&amp;oq=</Referrer>
+    <DateVisited>8/12/2009 6:28:12 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>65.55.109.123</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/04/24/BehindTheBlogAnInsideLookAtWhatItTakesToDevelopABlogEngineFromScratch</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible;  MSIE 6.0;  Windows NT 5.1;  SV1;  .NET CLR 1.1.4322;  .NET CLR 2.0.50727;  .NET CLR 3.0.30729)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.bing.com/search?q=about</Referrer>
+    <DateVisited>8/12/2009 2:33:41 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>66.249.67.18</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/06</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>True</Crawler>
+    <Referrer />
+    <DateVisited>8/12/2009 2:18:25 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>67.218.116.164</UserHostAddress>
+    <PageUrl>skynetsoftware.net/About.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Twiceler-0.9 http://www.cuil.com/twiceler/robot.html)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/11/2009 8:30:40 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>65.55.207.25</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/06/07/SysnetwebserviceproxyinvokeWrapperForJquery</PageUrl>
+    <UserAgent>msnbot/2.0b (+http://search.msn.com/msnbot.htm)</UserAgent>
+    <Browser>Unknown</Browser>
+    <Crawler>True</Crawler>
+    <Referrer />
+    <DateVisited>8/11/2009 6:35:30 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>66.249.67.18</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/07/09/FirstPostOnTheNewSite</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>True</Crawler>
+    <Referrer />
+    <DateVisited>8/11/2009 6:21:23 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>72.30.65.53</UserHostAddress>
+    <PageUrl>skynetsoftware.net/Default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/11/2009 3:59:58 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>66.249.67.18</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/06/07/ContentChanges</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>True</Crawler>
+    <Referrer />
+    <DateVisited>8/11/2009 2:45:25 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>66.249.67.18</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/04/09/FirstPostOnTheNewSite</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>True</Crawler>
+    <Referrer />
+    <DateVisited>8/11/2009 1:35:41 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>70.151.248.118</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.1.2) Gecko/20090729 Firefox/3.5.2 (.NET CLR 3.5.30729)</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www2.sandbox.google.com/</Referrer>
+    <DateVisited>8/11/2009 10:43:08 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>67.218.116.164</UserHostAddress>
+    <PageUrl>skynetsoftware.net/Contact.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Twiceler-0.9 http://www.cuil.com/twiceler/robot.html)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/11/2009 9:31:14 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>70.151.248.118</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/04/24/BehindTheBlogAnInsideLookAtWhatItTakesToDevelopABlogEngineFromScratch</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.1.2) Gecko/20090729 Firefox/3.5.2 (.NET CLR 3.5.30729)</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www2.sandbox.google.com/url?sa=t&amp;source=web&amp;ct=res&amp;cd=2&amp;url=http://skynetsoftware.net/archive/2009/04/24/BehindTheBlogAnInsideLookAtWhatItTakesToDevelopABlogEngineFromScratch&amp;ei=VYWBSsHTJImGMsGitPwH&amp;rct=j&amp;q=skynet+software&amp;usg=AFQjCNFnwbQ19kaDIwhWnnthuXi-sD48PQ</Referrer>
+    <DateVisited>8/11/2009 7:51:37 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>67.218.116.164</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/04/15/AddingFeaturesToTheSiteSlowly</PageUrl>
+    <UserAgent>Mozilla/5.0 (Twiceler-0.9 http://www.cuil.com/twiceler/robot.html)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/11/2009 5:35:22 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>78.151.166.190</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; GTB6; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.5.30729; .NET CLR 3.0.30618)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.google.co.uk/search?hl=en&amp;rlz=1T4GPEA_enGB303GB305&amp;q=skynet+software&amp;meta=</Referrer>
+    <DateVisited>8/11/2009 4:52:54 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>67.218.116.164</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/InProgress/2009/07/16/LookingAtPLINQ</PageUrl>
+    <UserAgent>Mozilla/5.0 (Twiceler-0.9 http://www.cuil.com/twiceler/robot.html)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/10/2009 11:29:37 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>67.218.116.164</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/07</PageUrl>
+    <UserAgent>Mozilla/5.0 (Twiceler-0.9 http://www.cuil.com/twiceler/robot.html)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/10/2009 9:37:48 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>67.218.116.164</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/04/24/BehindTheBlogAnInsideLookAtWhatItTakesToDevelopABlogEngineFromScratch</PageUrl>
+    <UserAgent>Mozilla/5.0 (Twiceler-0.9 http://www.cuil.com/twiceler/robot.html)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/10/2009 8:25:01 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>65.55.106.234</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/04</PageUrl>
+    <UserAgent>msnbot/2.0b (+http://search.msn.com/msnbot.htm)</UserAgent>
+    <Browser>Unknown</Browser>
+    <Crawler>True</Crawler>
+    <Referrer />
+    <DateVisited>8/10/2009 6:47:24 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>24.90.242.2</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; en-us) AppleWebKit/530.17 (KHTML, like Gecko) Version/4.0 Safari/530.17</UserAgent>
+    <Browser>AppleMAC-Safari</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.google.com/search?client=safari&amp;rls=en-us&amp;q=skynet+software&amp;ie=UTF-8&amp;oe=UTF-8</Referrer>
+    <DateVisited>8/10/2009 5:57:31 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>12.228.32.34</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.1) Gecko/20090715 Firefox/3.5.1 (.NET CLR 3.5.30729)</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/10/2009 8:09:58 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>72.30.65.53</UserHostAddress>
+    <PageUrl>skynetsoftware.net/About.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/10/2009 7:59:57 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>12.228.32.34</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.2) Gecko/20090729 Firefox/3.5.2 (.NET CLR 3.5.30729)</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/10/2009 6:50:17 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>70.5.140.174</UserHostAddress>
+    <PageUrl>skynetsoftware.net/InProgress.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; IEMobile 7.11) Sprint:PPC6800</UserAgent>
+    <Browser>WinCE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://skynetsoftware.net/Default.aspx</Referrer>
+    <DateVisited>8/10/2009 6:29:38 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>70.5.140.174</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; IEMobile 7.11) Sprint:PPC6800</UserAgent>
+    <Browser>WinCE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.google.com/m/search?source=mobilesearchapp&amp;q=skynet+software&amp;ltime=1249910859070&amp;uaction=DM&amp;hsid=WP_TITA100&amp;rlz=1H3GGLE_en-US__295&amp;client=Web&amp;v=2.0.10&amp;qttime=5230</Referrer>
+    <DateVisited>8/10/2009 6:28:18 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>66.249.67.18</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/InProgress/2009/07/23/BiomimicryACallToArms</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>True</Crawler>
+    <Referrer />
+    <DateVisited>8/10/2009 1:23:01 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>66.249.67.18</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/InProgress/2009/07/10/FirstInProgressPost</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>True</Crawler>
+    <Referrer />
+    <DateVisited>8/9/2009 10:42:05 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>74.6.8.118</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/04/09/FirstPostOnTheNewSite</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/9/2009 4:55:14 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>96.48.69.71</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/07/23/TheSingularityIsNearer</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.1.2) Gecko/20090729 Firefox/3.5.2 (.NET CLR 3.5.30729)</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://skynetsoftware.net/archive/InProgress/2009/07/23/BiomimicryACallToArms</Referrer>
+    <DateVisited>8/9/2009 11:06:45 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>96.48.69.71</UserHostAddress>
+    <PageUrl>skynetsoftware.net/InProgress.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.1.2) Gecko/20090729 Firefox/3.5.2 (.NET CLR 3.5.30729)</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://skynetsoftware.net/Default.aspx</Referrer>
+    <DateVisited>8/9/2009 11:06:36 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>96.48.69.71</UserHostAddress>
+    <PageUrl>skynetsoftware.net/InProgress.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.1.2) Gecko/20090729 Firefox/3.5.2 (.NET CLR 3.5.30729)</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://skynetsoftware.net/About.aspx</Referrer>
+    <DateVisited>8/9/2009 11:04:39 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>96.48.69.71</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.1.2) Gecko/20090729 Firefox/3.5.2 (.NET CLR 3.5.30729)</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.google.ca/search?hl=en&amp;um=1&amp;ei=YA9_Suf5IqjeswO6grDvCg&amp;resnum=0&amp;q=skynet software&amp;ie=UTF-8&amp;sa=N&amp;tab=iw&amp;start=0</Referrer>
+    <DateVisited>8/9/2009 11:03:44 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>72.30.78.228</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/04/15/AddingFeaturesToTheSiteSlowly</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/9/2009 1:51:35 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>194.8.75.64</UserHostAddress>
+    <PageUrl>skynetsoftware.net/About.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 5.0; Windows 95) Opera 6.01  [en]</UserAgent>
+    <Browser>Opera</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://skynetsoftware.net/About.aspx</Referrer>
+    <DateVisited>8/8/2009 11:51:29 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>65.55.230.168</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0</UserAgent>
+    <Browser>Netscape</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/8/2009 7:24:08 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>78.38.15.2</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://skynetsoftware.net/</Referrer>
+    <DateVisited>8/8/2009 3:52:03 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>74.236.63.203</UserHostAddress>
+    <PageUrl>skynetsoftware.net/Default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.0.13) Gecko/2009073022 Firefox/3.0.13 (.NET CLR 3.5.30729)</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://skynetsoftware.net/Contact.aspx</Referrer>
+    <DateVisited>8/8/2009 2:27:04 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>74.236.63.203</UserHostAddress>
+    <PageUrl>skynetsoftware.net/InProgress.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.0.13) Gecko/2009073022 Firefox/3.0.13 (.NET CLR 3.5.30729)</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://skynetsoftware.net/About.aspx</Referrer>
+    <DateVisited>8/8/2009 2:26:47 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>74.236.63.203</UserHostAddress>
+    <PageUrl>skynetsoftware.net/About.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.0.13) Gecko/2009073022 Firefox/3.0.13 (.NET CLR 3.5.30729)</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.google.com/search?hl=en&amp;client=firefox-a&amp;rls=org.mozilla:en-US:official&amp;hs=Dkt&amp;q=skynet+jeff+blake&amp;aq=f&amp;oq=&amp;aqi=</Referrer>
+    <DateVisited>8/8/2009 2:22:55 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>65.55.208.156</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/06/07/SysnetwebserviceproxyinvokeWrapperForJquery</PageUrl>
+    <UserAgent>msnbot/1.1 (+http://search.msn.com/msnbot.htm)</UserAgent>
+    <Browser>Unknown</Browser>
+    <Crawler>True</Crawler>
+    <Referrer />
+    <DateVisited>8/8/2009 10:50:11 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>98.211.132.62</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.0.12) Gecko/2009070611 Firefox/3.0.12 (.NET CLR 4.0.20506)</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/8/2009 9:31:36 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>98.211.132.62</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.0.12) Gecko/2009070611 Firefox/3.0.12 (.NET CLR 4.0.20506)</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/8/2009 9:31:43 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>78.38.255.141</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 5.2; en-US; rv:1.8.1.12) Gecko/20080201 Firefox/2.0.0.12</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/8/2009 12:47:01 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>74.236.63.203</UserHostAddress>
+    <PageUrl>skynetsoftware.net/About.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.0.13) Gecko/2009073022 Firefox/3.0.13 (.NET CLR 3.5.30729)</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://skynetsoftware.net/About.aspx</Referrer>
+    <DateVisited>8/8/2009 2:26:39 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>74.236.63.203</UserHostAddress>
+    <PageUrl>skynetsoftware.net/Contact.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.0.13) Gecko/2009073022 Firefox/3.0.13 (.NET CLR 3.5.30729)</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://skynetsoftware.net/InProgress.aspx</Referrer>
+    <DateVisited>8/8/2009 2:27:00 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>78.38.15.2</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.google.com/search?hl=en&amp;q=skynet+software&amp;aq=f&amp;oq=&amp;aqi=</Referrer>
+    <DateVisited>8/8/2009 3:50:46 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>67.218.116.164</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/07/09/FirstPostOnTheNewSite</PageUrl>
+    <UserAgent>Mozilla/5.0 (Twiceler-0.9 http://www.cuil.com/twiceler/robot.html)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/8/2009 5:14:59 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>67.218.116.164</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/06/07/ContentChanges</PageUrl>
+    <UserAgent>Mozilla/5.0 (Twiceler-0.9 http://www.cuil.com/twiceler/robot.html)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/8/2009 8:00:31 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>66.249.67.18</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/InProgress/2009/07/16/ExplorercanvasWhyDoPeopleFUDMicrosoft</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>True</Crawler>
+    <Referrer />
+    <DateVisited>8/8/2009 11:53:13 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>72.30.78.228</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/9/2009 4:04:39 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>96.48.69.71</UserHostAddress>
+    <PageUrl>skynetsoftware.net/About.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.1.2) Gecko/20090729 Firefox/3.5.2 (.NET CLR 3.5.30729)</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://skynetsoftware.net/</Referrer>
+    <DateVisited>8/9/2009 11:04:27 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>96.48.69.71</UserHostAddress>
+    <PageUrl>skynetsoftware.net/Default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.1.2) Gecko/20090729 Firefox/3.5.2 (.NET CLR 3.5.30729)</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://skynetsoftware.net/InProgress.aspx</Referrer>
+    <DateVisited>8/9/2009 11:05:20 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>96.48.69.71</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/InProgress/2009/07/23/BiomimicryACallToArms</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.1.2) Gecko/20090729 Firefox/3.5.2 (.NET CLR 3.5.30729)</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://skynetsoftware.net/InProgress.aspx</Referrer>
+    <DateVisited>8/9/2009 11:06:40 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>86.169.94.245</UserHostAddress>
+    <PageUrl>skynetsoftware.net/Default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/4.0; GTB6; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; InfoPath.2; .NET CLR 1.1.4322; OfficeLivePatch.1.3; .NET CLR 3.5.30729; Zune 3.0; OfficeLiveConnector.1.4; .NET CLR 3.0.30729; msn OptimizedIE8;ENUS)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.bing.com/search?q=skynet+software&amp;form=MS8TDS&amp;pc=MS8TDS&amp;src=IE-SearchBox</Referrer>
+    <DateVisited>8/9/2009 11:20:50 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>65.55.106.138</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/07/09/FirstPostOnTheNewSite</PageUrl>
+    <UserAgent>msnbot/2.0b (+http://search.msn.com/msnbot.htm)</UserAgent>
+    <Browser>Unknown</Browser>
+    <Crawler>True</Crawler>
+    <Referrer />
+    <DateVisited>8/9/2009 5:18:24 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>66.249.67.18</UserHostAddress>
+    <PageUrl>skynetsoftware.net/InProgress.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>True</Crawler>
+    <Referrer />
+    <DateVisited>8/9/2009 11:36:59 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>78.39.15.194</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.google.com/search?hl=en&amp;q=skynet+software</Referrer>
+    <DateVisited>8/10/2009 5:38:46 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>70.5.140.174</UserHostAddress>
+    <PageUrl>skynetsoftware.net/Default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; IEMobile 7.11) Sprint:PPC6800</UserAgent>
+    <Browser>WinCE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://skynetsoftware.net/</Referrer>
+    <DateVisited>8/10/2009 6:29:27 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>85.9.122.1</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; .NET CLR 2.0.50727; .NET CLR 1.1.4322)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.google.com/search?hl=fa&amp;rls=com.microsoft:fa&amp;q=skynet+software+&amp;lr=</Referrer>
+    <DateVisited>8/10/2009 6:48:49 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>193.5.216.100</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/06/07/SysnetwebserviceproxyinvokeWrapperForJquery</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.0.11) Gecko/2009060215 Firefox/3.0.11 (.NET CLR 3.5.30729)</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.google.ch/search?q=sys.net.webserviceproxy.invoke&amp;ie=utf-8&amp;oe=utf-8&amp;aq=t&amp;rls=org.mozilla:en-US:official&amp;client=firefox-a</Referrer>
+    <DateVisited>8/10/2009 6:59:09 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>66.249.67.18</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>True</Crawler>
+    <Referrer />
+    <DateVisited>8/10/2009 8:06:21 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>67.202.41.3</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>ia_archiver (+http://www.alexa.com/site/help/webmasters; crawler@alexa.com)</UserAgent>
+    <Browser>Unknown</Browser>
+    <Crawler>True</Crawler>
+    <Referrer />
+    <DateVisited>8/10/2009 2:51:32 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>24.90.242.2</UserHostAddress>
+    <PageUrl>skynetsoftware.net/InProgress.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; en-us) AppleWebKit/530.17 (KHTML, like Gecko) Version/4.0 Safari/530.17</UserAgent>
+    <Browser>AppleMAC-Safari</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://skynetsoftware.net/</Referrer>
+    <DateVisited>8/10/2009 5:58:02 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>67.218.116.164</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/04</PageUrl>
+    <UserAgent>Mozilla/5.0 (Twiceler-0.9 http://www.cuil.com/twiceler/robot.html)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/10/2009 6:56:18 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>78.38.255.141</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 5.2; en-US; rv:1.8.1.12) Gecko/20080201 Firefox/2.0.0.12</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/10/2009 9:06:30 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>66.249.67.18</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/InProgress/2009/07/16/LookingAtPLINQ</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>True</Crawler>
+    <Referrer />
+    <DateVisited>8/10/2009 10:47:39 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>67.218.116.164</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/07/18/FightingBlogSpam</PageUrl>
+    <UserAgent>Mozilla/5.0 (Twiceler-0.9 http://www.cuil.com/twiceler/robot.html)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/11/2009 3:07:07 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>78.151.166.190</UserHostAddress>
+    <PageUrl>skynetsoftware.net/InProgress.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; GTB6; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.5.30729; .NET CLR 3.0.30618)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://skynetsoftware.net/</Referrer>
+    <DateVisited>8/11/2009 4:53:14 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>70.151.248.118</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.1.2) Gecko/20090729 Firefox/3.5.2 (.NET CLR 3.5.30729)</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www2.sandbox.google.com/search?hl=en&amp;q=skynet+software&amp;aq=f&amp;oq=&amp;aqi=g1&amp;fp=azWfBBCvguA</Referrer>
+    <DateVisited>8/11/2009 7:51:21 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>132.5.72.9</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.0.04506; .NET CLR 3.5.21022; InfoPath.2)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.google.com/search?hl=en&amp;q=skynet+software&amp;aq=0&amp;oq=skynet+sof&amp;aqi=g1</Referrer>
+    <DateVisited>8/11/2009 9:00:43 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>94.99.120.86</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/3.0.197.11 Safari/532.0</UserAgent>
+    <Browser>AppleMAC-Safari</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/11/2009 10:12:43 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>83.174.41.114</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/06/07/SysnetwebserviceproxyinvokeWrapperForJquery</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 6.0; en-GB; rv:1.9.1.2) Gecko/20090729 Firefox/3.5.2 (.NET CLR 3.5.30729)</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.google.pt/search?hl=pt-PT&amp;client=firefox-a&amp;rls=org.mozilla:en-GB:official&amp;ei=CbSBSuSdLYL7_Abq3fyxCw&amp;sa=X&amp;oi=spell&amp;resnum=0&amp;ct=result&amp;cd=1&amp;q=Sys.Net.WebServiceProxy.invoke+issue+with+string+parameters&amp;spell=1</Referrer>
+    <DateVisited>8/11/2009 11:11:22 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>86.22.77.207</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 6.0; en-GB; rv:1.9.0.13) Gecko/2009073022 Firefox/3.0.13 (.NET CLR 3.5.30729)</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.google.co.uk/search?q=skynet+software&amp;ie=utf-8&amp;oe=utf-8&amp;aq=t&amp;rls=org.mozilla:en-GB:official&amp;client=firefox-a</Referrer>
+    <DateVisited>8/11/2009 1:43:42 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>67.218.116.164</UserHostAddress>
+    <PageUrl>skynetsoftware.net/InProgress.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Twiceler-0.9 http://www.cuil.com/twiceler/robot.html)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/11/2009 3:55:28 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>67.218.116.164</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/InProgress/2009/07/16/TakingJSTemplatesToTheNextLevel</PageUrl>
+    <UserAgent>Mozilla/5.0 (Twiceler-0.9 http://www.cuil.com/twiceler/robot.html)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/11/2009 4:13:46 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>67.218.116.164</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/07/17/ExploringJSTemplatesPart1</PageUrl>
+    <UserAgent>Mozilla/5.0 (Twiceler-0.9 http://www.cuil.com/twiceler/robot.html)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/11/2009 6:22:53 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>67.218.116.164</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/06/07/SysnetwebserviceproxyinvokeWrapperForJquery</PageUrl>
+    <UserAgent>Mozilla/5.0 (Twiceler-0.9 http://www.cuil.com/twiceler/robot.html)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/11/2009 7:54:07 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>67.218.116.164</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/InProgress/2009/07/10/FirstInProgressPost</PageUrl>
+    <UserAgent>Mozilla/5.0 (Twiceler-0.9 http://www.cuil.com/twiceler/robot.html)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/12/2009 1:05:25 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>65.55.208.148</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/04/24/BehindTheBlogAnInsideLookAtWhatItTakesToDevelopABlogEngineFromScratch</PageUrl>
+    <UserAgent>msnbot/1.1 (+http://search.msn.com/msnbot.htm)</UserAgent>
+    <Browser>Unknown</Browser>
+    <Crawler>True</Crawler>
+    <Referrer />
+    <DateVisited>8/12/2009 2:33:01 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>82.99.195.22</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; InfoPath.2; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.google.com/search?hl=en&amp;q=SKYNET+SOFTWARE&amp;aq=f&amp;oq=&amp;aqi=g1</Referrer>
+    <DateVisited>8/12/2009 5:53:26 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>70.151.248.118</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.1.2) Gecko/20090729 Firefox/3.5.2 (.NET CLR 3.5.30729)</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/12/2009 6:30:39 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>67.218.116.164</UserHostAddress>
+    <PageUrl>skynetsoftware.net/Default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Twiceler-0.9 http://www.cuil.com/twiceler/robot.html)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/12/2009 3:39:41 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>74.236.63.203</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (iPod; U; CPU iPhone OS 2_1_1 like Mac OS X; en-us) AppleWebKit/525.18.1 (KHTML, like Gecko) Version/3.1.1 Mobile/5F138 Safari/525.20</UserAgent>
+    <Browser>AppleMAC-Safari</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.demetreaus.com/</Referrer>
+    <DateVisited>8/12/2009 5:58:45 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>65.55.207.28</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>msnbot/2.0b (+http://search.msn.com/msnbot.htm)</UserAgent>
+    <Browser>Unknown</Browser>
+    <Crawler>True</Crawler>
+    <Referrer />
+    <DateVisited>8/12/2009 10:39:59 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>64.246.178.34</UserHostAddress>
+    <PageUrl>www.skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>SurveyBot/2.3 (Whois Source)</UserAgent>
+    <Browser>Unknown</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://whois.domaintools.com/skynetsoftware.net</Referrer>
+    <DateVisited>8/13/2009 3:31:44 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>65.55.208.156</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/InProgress/2009/07/10/FirstInProgressPost</PageUrl>
+    <UserAgent>msnbot/1.1 (+http://search.msn.com/msnbot.htm)</UserAgent>
+    <Browser>Unknown</Browser>
+    <Crawler>True</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 5:59:26 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>70.151.248.118</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.1.2) Gecko/20090729 Firefox/3.5.2 (.NET CLR 3.5.30729)</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 6:27:33 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>70.151.248.118</UserHostAddress>
+    <PageUrl>skynetsoftware.net/InProgress.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.1.2) Gecko/20090729 Firefox/3.5.2 (.NET CLR 3.5.30729)</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://skynetsoftware.net/</Referrer>
+    <DateVisited>8/13/2009 6:29:51 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>72.30.87.124</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/06/13/OurRockStarsArentLikeYourRockStars</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 7:42:57 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>203.122.53.20</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.google.co.in/search?hl=en&amp;q=skynet+software&amp;meta=&amp;aq=f&amp;oq=</Referrer>
+    <DateVisited>8/13/2009 8:32:49 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>203.122.53.20</UserHostAddress>
+    <PageUrl>skynetsoftware.net/Default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://skynetsoftware.net/About.aspx</Referrer>
+    <DateVisited>8/13/2009 8:36:06 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>67.218.116.164</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/07/23/TheSingularityIsNearer</PageUrl>
+    <UserAgent>Mozilla/5.0 (Twiceler-0.9 http://www.cuil.com/twiceler/robot.html)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 9:28:14 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>65.55.208.158</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/InProgress/2009/07/23/BiomimicryACallToArms</PageUrl>
+    <UserAgent>msnbot/1.1 (+http://search.msn.com/msnbot.htm)</UserAgent>
+    <Browser>Unknown</Browser>
+    <Crawler>True</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 10:15:42 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>65.55.107.239</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/06</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible;  MSIE 6.0;  Windows NT 5.2;  SV1;  .NET CLR 1.1.4322;  .NET CLR 2.0.40607;  .NET CLR 3.0.04506.648)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.bing.com/search?q=people</Referrer>
+    <DateVisited>8/13/2009 12:13:43 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>65.55.208.147</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/06/13/OurRockStarsArentLikeYourRockStars</PageUrl>
+    <UserAgent>msnbot/1.1 (+http://search.msn.com/msnbot.htm)</UserAgent>
+    <Browser>Unknown</Browser>
+    <Crawler>True</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 12:27:17 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>69.58.178.26</UserHostAddress>
+    <PageUrl>www.skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.12; ips-agent) Gecko/20050922 Fedora/1.0.7-1.1.fc4 Firefox/1.0.7</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:04:31 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>69.58.178.26</UserHostAddress>
+    <PageUrl>www.skynetsoftware.net/Contact.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.12; ips-agent) Gecko/20050922 Fedora/1.0.7-1.1.fc4 Firefox/1.0.7</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:04:34 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>69.58.178.26</UserHostAddress>
+    <PageUrl>www.skynetsoftware.net/InProgress.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.12; ips-agent) Gecko/20050922 Fedora/1.0.7-1.1.fc4 Firefox/1.0.7</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:04:37 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>69.58.178.26</UserHostAddress>
+    <PageUrl>www.skynetsoftware.net/archive/2009/07/23/TheSingularityIsNearer</PageUrl>
+    <UserAgent>Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.12; ips-agent) Gecko/20050922 Fedora/1.0.7-1.1.fc4 Firefox/1.0.7</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:04:40 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>69.58.178.26</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/04/24/BehindTheBlogAnInsideLookAtWhatItTakesToDevelopABlogEngineFromScratch</PageUrl>
+    <UserAgent>Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.12; ips-agent) Gecko/20050922 Fedora/1.0.7-1.1.fc4 Firefox/1.0.7</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:04:43 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>96.52.62.168</UserHostAddress>
+    <PageUrl>skynetsoftware.net/InProgress.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.0.13) Gecko/2009073022 Firefox/3.0.13 (.NET CLR 3.5.30729)</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://skynetsoftware.net/</Referrer>
+    <DateVisited>8/13/2009 2:08:26 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>221.178.181.197</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/07/23/TheSingularityIsNearer</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:24:13 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>221.178.181.197</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/07/23/TheSingularityIsNearer</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:24:15 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>69.181.180.101</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/InProgress/2009/07/10/FirstInProgressPost</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://skynetsoftware.net/archive/InProgress/2009/07/10/FirstInProgressPost</Referrer>
+    <DateVisited>8/13/2009 2:24:17 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>69.181.180.101</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/InProgress/2009/07/10</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:24:18 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>69.181.180.101</UserHostAddress>
+    <PageUrl>skynetsoftware.net/InProgress.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:24:19 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>69.181.180.101</UserHostAddress>
+    <PageUrl>skynetsoftware.net/Contact.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:24:19 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>69.181.180.101</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/06</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:24:20 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>66.99.109.3</UserHostAddress>
+    <PageUrl>skynetsoftware.net/Default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:24:22 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>193.171.32.6</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/InProgress/2009/07/16/TakingJSTemplatesToTheNextLevel</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://skynetsoftware.net/archive/InProgress/2009/07/16/TakingJSTemplatesToTheNextLevel</Referrer>
+    <DateVisited>8/13/2009 2:24:27 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>66.99.109.3</UserHostAddress>
+    <PageUrl>skynetsoftware.net/InProgress.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:24:29 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>193.171.32.6</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/InProgress/2009/07/16/TakingJSTemplatesToTheNextLevel</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:24:29 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>193.171.32.6</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/InProgress/2009/07/16</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:24:30 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>118.69.229.114</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/InProgress/2009/07/23/BiomimicryACallToArms</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:24:31 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>66.99.109.3</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/04</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:24:34 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>66.99.109.3</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/06</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:24:36 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>193.171.32.6</UserHostAddress>
+    <PageUrl>skynetsoftware.net/InProgress.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:24:39 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>114.127.246.36</UserHostAddress>
+    <PageUrl>skynetsoftware.net/InProgress.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:24:43 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>114.127.246.36</UserHostAddress>
+    <PageUrl>skynetsoftware.net/About.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:24:44 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>114.127.246.36</UserHostAddress>
+    <PageUrl>skynetsoftware.net/Contact.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:24:45 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>114.127.246.36</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/04/24/BehindTheBlogAnInsideLookAtWhatItTakesToDevelopABlogEngineFromScratch</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:24:46 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>114.127.246.36</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/04</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:24:48 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>114.127.246.36</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/06</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:24:49 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>193.171.32.6</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/04</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:24:59 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>163.21.212.200</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/07/09/FirstPostOnTheNewSite</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://skynetsoftware.net/archive/2009/07/09/FirstPostOnTheNewSite</Referrer>
+    <DateVisited>8/13/2009 2:25:07 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>193.171.32.6</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/06</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:25:09 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>193.171.32.6</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/07</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:25:15 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>66.253.105.67</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/InProgress/2009/07/23/BiomimicryACallToArms</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://skynetsoftware.net/archive/InProgress/2009/07/23/BiomimicryACallToArms</Referrer>
+    <DateVisited>8/13/2009 2:25:17 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>66.253.105.67</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/InProgress/2009/07/23</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:25:22 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>66.253.105.67</UserHostAddress>
+    <PageUrl>skynetsoftware.net/InProgress.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:25:24 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>119.93.229.211</UserHostAddress>
+    <PageUrl>skynetsoftware.net/InProgress.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:25:24 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>66.253.105.67</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/07/23/TheSingularityIsNearer</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:25:26 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>66.253.105.67</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/06</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:25:28 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>66.253.105.67</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/07</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:25:33 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>202.45.126.99</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/07/26/TrackingPageviewDataUsingSystemwebroutingWithASPNETWebforms</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://skynetsoftware.net/archive/2009/07/26/TrackingPageviewDataUsingSystemwebroutingWithASPNETWebforms</Referrer>
+    <DateVisited>8/13/2009 2:25:41 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>202.45.126.99</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/07/26/TrackingPageviewDataUsingSystemwebroutingWithASPNETWebforms</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:25:42 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>174.37.96.18</UserHostAddress>
+    <PageUrl>skynetsoftware.net/InProgress.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:25:57 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>174.37.96.18</UserHostAddress>
+    <PageUrl>skynetsoftware.net/Contact.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:25:58 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>174.37.96.18</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/06</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:25:58 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>119.93.229.211</UserHostAddress>
+    <PageUrl>skynetsoftware.net/Contact.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:25:59 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>124.195.18.1</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/07</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:26:14 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>119.93.229.211</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/06</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 2:26:29 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>72.30.65.49</UserHostAddress>
+    <PageUrl>www.skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/13/2009 10:45:15 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>89.165.16.205</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://skynetsoftware.net/</Referrer>
+    <DateVisited>8/13/2009 11:21:29 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>194.176.105.44</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.1.2) Gecko/20090729 Firefox/3.5.2</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.google.co.uk/search?hl=en&amp;q=skynet+software&amp;meta=&amp;btnG=Google+Search</Referrer>
+    <DateVisited>8/14/2009 12:37:17 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>194.176.105.44</UserHostAddress>
+    <PageUrl>skynetsoftware.net/About.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.1.2) Gecko/20090729 Firefox/3.5.2</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://skynetsoftware.net/Default.aspx</Referrer>
+    <DateVisited>8/14/2009 12:37:56 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>72.30.87.124</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/06/07/ContentChanges</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/14/2009 6:24:59 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>65.55.207.54</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/07</PageUrl>
+    <UserAgent>msnbot/2.0b (+http://search.msn.com/msnbot.htm)</UserAgent>
+    <Browser>Unknown</Browser>
+    <Crawler>True</Crawler>
+    <Referrer />
+    <DateVisited>8/14/2009 9:43:13 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>67.218.116.164</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/07/26/TrackingPageviewDataUsingSystemwebroutingWithASPNETWebforms</PageUrl>
+    <UserAgent>Mozilla/5.0 (Twiceler-0.9 http://www.cuil.com/twiceler/robot.html)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/14/2009 3:04:26 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>72.30.79.35</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/InProgress/2009/07/16/TakingJSTemplatesToTheNextLevel</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/14/2009 5:58:59 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>66.249.67.18</UserHostAddress>
+    <PageUrl>skynetsoftware.net/Default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>True</Crawler>
+    <Referrer />
+    <DateVisited>8/14/2009 10:26:46 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>67.218.116.164</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/InProgress/2009/07/23/BiomimicryACallToArms</PageUrl>
+    <UserAgent>Mozilla/5.0 (Twiceler-0.9 http://www.cuil.com/twiceler/robot.html)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/15/2009 7:15:04 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>41.140.254.230</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.0.13) Gecko/2009073022 Firefox/3.0.13</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.google.co.ma/search?hl=fr&amp;client=firefox-a&amp;channel=s&amp;rls=org.mozilla:fr:official&amp;hs=S3k&amp;ei=EhyHSvvABtLDsgbvgYH9Bw&amp;sa=X&amp;oi=spell&amp;resnum=0&amp;ct=result&amp;cd=1&amp;q=skynet.dat+software&amp;spell=1</Referrer>
+    <DateVisited>8/15/2009 1:36:06 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>68.106.216.125</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.1.2) Gecko/20090729 Firefox/3.5.2</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.google.com/search?q=skyNET+web+browser&amp;ie=utf-8&amp;oe=utf-8&amp;aq=t&amp;rls=org.mozilla:en-US:official&amp;client=firefox-a</Referrer>
+    <DateVisited>8/16/2009 12:24:43 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>67.191.11.125</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; WOW64; Trident/4.0; Comcast Install 1.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.5.30729; .NET CLR 3.0.30618; .NET CLR 4.0.20506)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://localhost:56305/NewStuff/JsPageTracking.htm</Referrer>
+    <DateVisited>8/16/2009 4:34:57 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>67.191.11.125</UserHostAddress>
+    <PageUrl>skynetsoftware.net/Default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.0.12) Gecko/2009070611 Firefox/3.0.12 (.NET CLR 4.0.20506)</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://skynetsoftware.net/</Referrer>
+    <DateVisited>8/16/2009 4:50:55 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>72.30.142.179</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/16/2009 5:03:44 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>92.27.173.122</UserHostAddress>
+    <PageUrl>skynetsoftware.net/About.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_0 like Mac OS X; en-us) AppleWebKit/528.18 (KHTML, like Gecko) Mobile/7A341</UserAgent>
+    <Browser>AppleMAC-Safari</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/16/2009 7:34:53 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>84.180.161.116</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; xrss; robot; http://www.xrss.eu/robot; version 2.0)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/16/2009 2:04:41 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>66.249.67.18</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/06/13/OurRockStarsArentLikeYourRockStars</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>True</Crawler>
+    <Referrer />
+    <DateVisited>8/16/2009 8:49:54 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>212.33.206.102</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/07/17/ExploringJSTemplatesPart1</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; InfoPath.2)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/16/2009 11:15:47 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>212.33.206.102</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; InfoPath.2)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.google.com/search?hl=en&amp;q=skynet+software&amp;aq=f&amp;oq=&amp;aqi=</Referrer>
+    <DateVisited>8/16/2009 11:23:48 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>66.249.67.18</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/InProgress/2009/07/23/BiomimicryACallToArms</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>True</Crawler>
+    <Referrer />
+    <DateVisited>8/17/2009 2:20:39 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>66.249.67.18</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/InProgress/2009/07/16/ExplorercanvasWhyDoPeopleFUDMicrosoft</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>True</Crawler>
+    <Referrer />
+    <DateVisited>8/17/2009 6:39:00 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>216.110.120.29</UserHostAddress>
+    <PageUrl>skynetsoftware.net/Contact.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://skynetsoftware.net/</Referrer>
+    <DateVisited>8/17/2009 11:58:16 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>216.110.120.29</UserHostAddress>
+    <PageUrl>skynetsoftware.net/About.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://skynetsoftware.net/Default.aspx</Referrer>
+    <DateVisited>8/17/2009 11:59:36 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>66.249.67.18</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/07</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>True</Crawler>
+    <Referrer />
+    <DateVisited>8/17/2009 1:16:12 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>216.199.238.207</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/530.5 (KHTML, like Gecko) Chrome/2.0.172.39 Safari/530.5</UserAgent>
+    <Browser>AppleMAC-Safari</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/17/2009 7:50:29 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>41.210.252.11</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/04/15/AddingFeaturesToTheSiteSlowly</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/17/2009 7:54:00 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>41.210.252.11</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/04/15/AddingFeaturesToTheSiteSlowly</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/17/2009 7:54:03 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>119.27.62.254</UserHostAddress>
+    <PageUrl>skynetsoftware.net/Default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0</UserAgent>
+    <Browser>Netscape</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/17/2009 7:54:42 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>195.229.62.157</UserHostAddress>
+    <PageUrl>skynetsoftware.net/InProgress.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/17/2009 7:55:11 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>195.229.62.157</UserHostAddress>
+    <PageUrl>skynetsoftware.net/Contact.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/17/2009 7:55:46 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>195.229.62.157</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/04</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/17/2009 7:56:02 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>195.229.62.157</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/06</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/17/2009 7:56:17 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>200.44.179.90</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/07</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/17/2009 7:56:52 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>216.199.238.207</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.1.2) Gecko/20090729 Firefox/3.5.2 (.NET CLR 4.0.20506)</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/17/2009 8:04:32 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>216.199.238.207</UserHostAddress>
+    <PageUrl>skynetsoftware.net/InProgress.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.1.2) Gecko/20090729 Firefox/3.5.2 (.NET CLR 4.0.20506)</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://skynetsoftware.net/</Referrer>
+    <DateVisited>8/17/2009 8:12:45 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>66.249.67.18</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/InProgress/2009/07/23/BiomimicryACallToArms</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>True</Crawler>
+    <Referrer />
+    <DateVisited>8/18/2009 2:24:50 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>174.133.28.162</UserHostAddress>
+    <PageUrl>skynetsoftware.net/About.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.0.3705)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/18/2009 3:55:06 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>66.249.67.18</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/08</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>True</Crawler>
+    <Referrer />
+    <DateVisited>8/18/2009 4:31:44 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>65.49.2.13</UserHostAddress>
+    <PageUrl>skynetsoftware.net/Default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.04506; InfoPath.3)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://skynetsoftware.net/</Referrer>
+    <DateVisited>8/18/2009 5:15:16 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>66.249.67.18</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/08/17/JavascriptClientSideSearchGridControl</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>True</Crawler>
+    <Referrer />
+    <DateVisited>8/18/2009 6:31:22 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>72.30.142.179</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/07/17/ExploringJSTemplatesPart1</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/18/2009 9:15:11 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>72.30.142.179</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/04/24/BehindTheBlogAnInsideLookAtWhatItTakesToDevelopABlogEngineFromScratch</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/18/2009 9:21:14 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>70.151.248.118</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.1.2) Gecko/20090729 Firefox/3.5.2</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/18/2009 1:30:55 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>66.249.67.58</UserHostAddress>
+    <PageUrl>www.skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>DoCoMo/2.0 N905i(c100;TB;W24H16) (compatible; Googlebot-Mobile/2.1; +http://www.google.com/bot.html)</UserAgent>
+    <Browser>i-mode</Browser>
+    <Crawler>True</Crawler>
+    <Referrer />
+    <DateVisited>8/18/2009 1:34:23 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>72.30.142.179</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/06/07/ContentChanges</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/18/2009 3:09:37 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>65.55.106.162</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/06/13/OurRockStarsArentLikeYourRockStars</PageUrl>
+    <UserAgent>msnbot/2.0b (+http://search.msn.com/msnbot.htm)</UserAgent>
+    <Browser>Unknown</Browser>
+    <Crawler>True</Crawler>
+    <Referrer />
+    <DateVisited>8/18/2009 3:55:38 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>70.177.210.20</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.5.30729; .NET CLR 3.0.30729)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.google.com/search?hl=en&amp;rls=com.microsoft:en-us:IE-SearchBox&amp;rlz=1I7TSHB&amp;q=Skynet+Software,+uk&amp;aq=f&amp;oq=&amp;aqi=</Referrer>
+    <DateVisited>8/18/2009 4:03:43 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>190.232.90.126</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; InfoPath.2; .NET CLR 3.5.30729; .NET CLR 3.0.30618; msn OptimizedIE8;ESUS)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.google.com.pe/search?hl=es&amp;ei=JHOLSvbxFs-GmQfDwbm0DQ&amp;sa=X&amp;oi=spell&amp;resnum=0&amp;ct=result&amp;cd=1&amp;q=skynet+SOFTWARE&amp;spell=1</Referrer>
+    <DateVisited>8/18/2009 8:36:30 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>88.191.63.27</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/04/15/AddingFeaturesToTheSiteSlowly</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/18/2009 8:58:39 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>88.191.63.27</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/04/15/AddingFeaturesToTheSiteSlowly</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/18/2009 8:58:41 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>62.149.211.207</UserHostAddress>
+    <PageUrl>skynetsoftware.net/Default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/18/2009 8:59:00 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>62.149.211.207</UserHostAddress>
+    <PageUrl>skynetsoftware.net/About.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/18/2009 8:59:10 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>62.149.211.207</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/04</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/18/2009 8:59:21 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>187.1.51.134</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/07</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/18/2009 8:59:48 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>66.249.67.18</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/07</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>True</Crawler>
+    <Referrer />
+    <DateVisited>8/18/2009 9:19:47 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>67.191.11.125</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/530.5 (KHTML, like Gecko) Chrome/2.0.172.39 Safari/530.5</UserAgent>
+    <Browser>AppleMAC-Safari</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/18/2009 11:36:20 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>72.94.249.34</UserHostAddress>
+    <PageUrl>www.skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/19/2009 12:35:39 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>66.249.67.18</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>True</Crawler>
+    <Referrer />
+    <DateVisited>8/19/2009 3:45:26 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>65.55.207.120</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>msnbot/2.0b (+http://search.msn.com/msnbot.htm)</UserAgent>
+    <Browser>Unknown</Browser>
+    <Crawler>True</Crawler>
+    <Referrer />
+    <DateVisited>8/19/2009 6:58:48 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>38.100.41.66</UserHostAddress>
+    <PageUrl>www.skynetsoftware.net/archive/2009/06/13/OurRockStarsArentLikeYourRockStars</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 7.0;  Windows NT 5.2)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.skynetsoftware.net/</Referrer>
+    <DateVisited>8/19/2009 7:46:11 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>38.100.41.66</UserHostAddress>
+    <PageUrl>www.skynetsoftware.net/archive/2009/04</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 7.0;  Windows NT 5.2)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.skynetsoftware.net/</Referrer>
+    <DateVisited>8/19/2009 7:46:15 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>38.100.41.66</UserHostAddress>
+    <PageUrl>www.skynetsoftware.net/Contact.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 7.0;  Windows NT 5.2)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.skynetsoftware.net/</Referrer>
+    <DateVisited>8/19/2009 7:46:21 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>38.100.41.66</UserHostAddress>
+    <PageUrl>www.skynetsoftware.net/archive/2009/04/15/AddingFeaturesToTheSiteSlowly</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 7.0;  Windows NT 5.2)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.skynetsoftware.net/</Referrer>
+    <DateVisited>8/19/2009 7:46:30 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>38.100.41.66</UserHostAddress>
+    <PageUrl>www.skynetsoftware.net/archive/2009/08</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 7.0;  Windows NT 5.2)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.skynetsoftware.net/</Referrer>
+    <DateVisited>8/19/2009 7:46:32 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>38.100.41.66</UserHostAddress>
+    <PageUrl>www.skynetsoftware.net/archive/2009/06/07/SysnetwebserviceproxyinvokeWrapperForJquery</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 7.0;  Windows NT 5.2)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.skynetsoftware.net/</Referrer>
+    <DateVisited>8/19/2009 7:46:42 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>38.100.41.66</UserHostAddress>
+    <PageUrl>www.skynetsoftware.net/About.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 7.0;  Windows NT 5.2)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.skynetsoftware.net/</Referrer>
+    <DateVisited>8/19/2009 7:46:48 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>38.100.41.66</UserHostAddress>
+    <PageUrl>www.skynetsoftware.net/archive/2009/06</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 7.0;  Windows NT 5.2)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.skynetsoftware.net/</Referrer>
+    <DateVisited>8/19/2009 7:46:51 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>38.100.41.66</UserHostAddress>
+    <PageUrl>www.skynetsoftware.net/archive/2009/07/18/FightingBlogSpam</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 7.0;  Windows NT 5.2)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.skynetsoftware.net/</Referrer>
+    <DateVisited>8/19/2009 7:46:58 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>38.100.41.66</UserHostAddress>
+    <PageUrl>www.skynetsoftware.net/archive/2009/07/26/TrackingPageviewDataUsingSystemwebroutingWithASPNETWebforms</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 7.0;  Windows NT 5.2)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.skynetsoftware.net/</Referrer>
+    <DateVisited>8/19/2009 7:47:03 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>38.100.41.66</UserHostAddress>
+    <PageUrl>www.skynetsoftware.net/archive/InProgress/2009/07/23/BiomimicryACallToArms</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 7.0;  Windows NT 5.2)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.skynetsoftware.net/InProgress.aspx</Referrer>
+    <DateVisited>8/19/2009 7:47:58 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>38.100.41.66</UserHostAddress>
+    <PageUrl>www.skynetsoftware.net/archive/InProgress/2009/07/10/FirstInProgressPost</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 7.0;  Windows NT 5.2)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.skynetsoftware.net/InProgress.aspx</Referrer>
+    <DateVisited>8/19/2009 7:48:00 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>66.235.124.59</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/06</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Ask Jeeves/Teoma; +http://about.ask.com/en/docs/about/webmasters.shtml)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/19/2009 12:14:22 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>66.249.67.18</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/InProgress/2009/07/10/FirstInProgressPost</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>True</Crawler>
+    <Referrer />
+    <DateVisited>8/19/2009 9:24:05 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>207.44.255.162</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/20/2009 12:09:15 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>207.44.255.162</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/04/15/AddingFeaturesToTheSiteSlowly</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://skynetsoftware.net/archive/2009/04/15/AddingFeaturesToTheSiteSlowly</Referrer>
+    <DateVisited>8/20/2009 12:09:20 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>207.44.255.162</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/20/2009 12:09:22 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>219.64.81.224</UserHostAddress>
+    <PageUrl>skynetsoftware.net/InProgress.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/20/2009 12:10:05 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>219.64.81.224</UserHostAddress>
+    <PageUrl>skynetsoftware.net/Contact.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/20/2009 12:10:24 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>219.64.81.224</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/06</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/20/2009 12:10:38 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>97.74.144.205</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/07</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>https://www.securepaynet.net/default.aspx?prog_id=451192</Referrer>
+    <DateVisited>8/20/2009 12:11:21 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>66.249.67.18</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/04</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>True</Crawler>
+    <Referrer />
+    <DateVisited>8/20/2009 1:03:55 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>74.6.22.120</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/07/26/TrackingPageviewDataUsingSystemwebroutingWithASPNETWebforms</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/20/2009 4:48:42 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>70.151.248.118</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.1.2) Gecko/20090729 Firefox/3.5.2</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/20/2009 7:37:39 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>70.151.248.118</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/07</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.1.2) Gecko/20090729 Firefox/3.5.2</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://skynetsoftware.net/archive/2009/08</Referrer>
+    <DateVisited>8/20/2009 7:38:32 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>66.249.67.18</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/07/09/FirstPostOnTheNewSite</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>True</Crawler>
+    <Referrer />
+    <DateVisited>8/20/2009 8:26:18 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>69.46.36.7</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Feedjit Crawler 2.1</UserAgent>
+    <Browser>Unknown</Browser>
+    <Crawler>True</Crawler>
+    <Referrer />
+    <DateVisited>8/20/2009 10:18:41 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>94.183.194.30</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.0.4) Gecko/2008102920 Firefox/3.0.4</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://skynetsoftware.net/</Referrer>
+    <DateVisited>8/20/2009 10:25:05 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>115.238.66.254</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 2.0.50727)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/20/2009 1:10:02 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>74.6.22.120</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/04/15/AddingFeaturesToTheSiteSlowly</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/20/2009 1:30:40 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>208.115.138.254</UserHostAddress>
+    <PageUrl>www.skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/20/2009 6:33:36 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>208.115.138.254</UserHostAddress>
+    <PageUrl>www.skynetsoftware.net/About.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/20/2009 6:33:57 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>74.6.17.178</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/06</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/20/2009 7:30:55 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>72.30.142.83</UserHostAddress>
+    <PageUrl>www.skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/20/2009 10:58:03 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>65.55.207.27</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>msnbot/2.0b (+http://search.msn.com/msnbot.htm)</UserAgent>
+    <Browser>Unknown</Browser>
+    <Crawler>True</Crawler>
+    <Referrer />
+    <DateVisited>8/21/2009 1:56:19 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>70.151.248.118</UserHostAddress>
+    <PageUrl>skynetsoftware.net/InProgress.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.1.2) Gecko/20090729 Firefox/3.5.2</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://skynetsoftware.net/</Referrer>
+    <DateVisited>8/21/2009 6:33:38 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>62.231.232.60</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/4.0; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.0.04506; .NET CLR 1.1.4322; InfoPath.2)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.google.com/search?hl=en&amp;rls=GGLR,GGLR:2009-16,GGLR:en&amp;q=skynet++softer&amp;aq=f&amp;oq=&amp;aqi=</Referrer>
+    <DateVisited>8/21/2009 8:44:59 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>87.194.235.34</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.1.2) Gecko/20090729 Firefox/3.5.2</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.google.co.uk/search?hl=en&amp;client=firefox-a&amp;rls=org.mozilla:en-GB:official&amp;hs=A3s&amp;ei=_9mOSoHBB9ONjAfx28j2DQ&amp;sa=X&amp;oi=spell&amp;resnum=0&amp;ct=result&amp;cd=1&amp;q=sky+net+browser&amp;spell=1</Referrer>
+    <DateVisited>8/21/2009 10:33:29 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>74.6.17.178</UserHostAddress>
+    <PageUrl>skynetsoftware.net/Default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/21/2009 3:06:52 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>125.164.0.24</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.13) Gecko/2009073022 Firefox/3.0.13</UserAgent>
+    <Browser>Firefox</Browser>
+    <Crawler>False</Crawler>
+    <Referrer>http://www.google.co.id/url?sa=t&amp;source=web&amp;ct=res&amp;cd=1&amp;url=http://skynetsoftware.net/&amp;ei=GGWPSoDXFoaPkQWCisy7Cg&amp;rct=j&amp;q=skynet+software&amp;usg=AFQjCNEu6YA1bqKGp3oU2KQLxsw_GRo-9w</Referrer>
+    <DateVisited>8/21/2009 8:25:41 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>65.55.106.115</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/06/07/ContentChanges</PageUrl>
+    <UserAgent>msnbot/2.0b (+http://search.msn.com/msnbot.htm)</UserAgent>
+    <Browser>Unknown</Browser>
+    <Crawler>True</Crawler>
+    <Referrer />
+    <DateVisited>8/21/2009 9:16:18 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>66.249.67.18</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/07/23/TheSingularityIsNearer</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>True</Crawler>
+    <Referrer />
+    <DateVisited>8/22/2009 1:14:45 AM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>66.249.67.18</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/04/24/BehindTheBlogAnInsideLookAtWhatItTakesToDevelopABlogEngineFromScratch</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>True</Crawler>
+    <Referrer />
+    <DateVisited>8/22/2009 1:45:20 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>72.30.79.58</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/22/2009 4:10:53 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>67.218.116.164</UserHostAddress>
+    <PageUrl>skynetsoftware.net/default.aspx</PageUrl>
+    <UserAgent>Mozilla/5.0 (Twiceler-0.9 http://www.cuil.com/twiceler/robot.html)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/22/2009 8:26:22 PM</DateVisited>
+  </PageView>
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>67.218.116.164</UserHostAddress>
+    <PageUrl>skynetsoftware.net/archive/2009/06</PageUrl>
+    <UserAgent>Mozilla/5.0 (Twiceler-0.9 http://www.cuil.com/twiceler/robot.html)</UserAgent>
+    <Browser>Mozilla</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/23/2009 12:47:41 AM</DateVisited>
+  </PageView>
+</ArrayOfPageView>

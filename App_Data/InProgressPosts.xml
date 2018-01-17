@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfInProgressPost xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <InProgressPost>
+    <Id>1672009211449716</Id>
+    <Title>ExplorerCanvas: Why do people F.U.D. Microsoft?</Title>
+    <Body>I've been interested in Canvas for a while, but I held off on using it because a lot of F.U.D.'ed support for canvas in IE. Well, it turns out that Microsoft Has had support for &lt;a href="http://msdn.microsoft.com/en-us/library/bb263898(VS.85).aspx"&gt;Vector Graphics&lt;/a&gt; for quite a while. After firefox et al. started using canvas, people at google became interested in it, and wrote a &lt;a href="http://code.google.com/p/explorercanvas/"&gt;wrapper&lt;/a&gt; for IE. It turns out that through VML, a majority of the canvas functionality was already available in IE. I'm playing around with visualization, and as soon as I have a sample project set up, I'll post more on this topic.</Body>
+    <Link>archive/InProgress/2009/07/16/ExplorercanvasWhyDoPeopleFUDMicrosoft</Link>
+    <DatePublished>7/16/2009 9:14:49 PM</DatePublished>
+    <DateModified>7/16/2009 9:33:59 PM</DateModified>
+    <Active>true</Active>
+  </InProgressPost>
+  <InProgressPost>
+    <Id>167200919565754</Id>
+    <Title>Looking at PLINQ</Title>
+    <Body>In my recent forays into cool new things, I came across &lt;a href="http://msdn.microsoft.com/en-us/library/dd460688(VS.100).aspx"&gt;PLINQ&lt;/a&gt;. It looks pretty darn cool. It's a way of abstracting away parallel programming vis a vis a &lt;a href="http://en.wikipedia.org/wiki/MapReduce"&gt;MapReduce&lt;/a&gt; type of system. I've certainly written a lot of multithreaded apps in my time as a programmer, and had a love affair with distributed computing since I first learned of &lt;a href="http://en.wikipedia.org/wiki/Parallel_Virtual_Machine"&gt;PVM&lt;/a&gt;, &lt;a href="http://en.wikipedia.org/wiki/Message_Passing_Interface"&gt;MPI&lt;/a&gt;, and other assorted technologies relating to &lt;a href="http://en.wikipedia.org/wiki/Beowulf_(computing)"&gt;Beowulf Clusters&lt;/a&gt;... I'd really like to dig into memcached and velocity in the future, but I'm stoked that PLINQ will be included in 4.0. Consider my breath bated... </Body>
+    <Link>archive/InProgress/2009/07/16/LookingAtPLINQ</Link>
+    <DatePublished>7/16/2009 7:56:57 PM</DatePublished>
+    <DateModified />
+    <Active>true</Active>
+  </InProgressPost>
+  <InProgressPost>
+    <Id>107200904926819</Id>
+    <Title>First In Progress Post</Title>
+    <Body>The In Progress area will serve as a stream of consciousness for most of my ideas while I get a decent post in order. Think of this section as a mini blog post meets delicious meets twitter. </Body>
+    <Link>archive/InProgress/2009/07/10/FirstInProgressPost</Link>
+    <DatePublished>7/9/2009 6:49:26 PM</DatePublished>
+    <DateModified />
+    <Active>true</Active>
+  </InProgressPost>
+  <InProgressPost>
+    <Id>167200920839373</Id>
+    <Title>Taking JS Templates to the next level</Title>
+    <Body>One of the projects I've been working on in my free time is a framework for JavaScript Templates. It began when I started to delve into the 
+&lt;a href="http://aspnet.codeplex.com/Release/ProjectReleases.aspx?ReleaseId=24645"&gt;ASP.NET AJAX 4.0 Preview&lt;/a&gt; and read &lt;a href="http://weblogs.asp.net/bleroy/archive/2008/07/30/using-client-templates-part-1.aspx"&gt;this&lt;/a&gt; post on Bertrand Le Roy's blog on JavaScript templates. I started playing with the preview and wanted to xsee if there was a simpler alternative to get started with. Enter John Resig's post on &lt;a href="http://ejohn.org/blog/javascript-micro-templating/"&gt;JavaScript Micro-Templating&lt;/a&gt;. I liked the idea of loading templates via a script/html tag. I took a cue from ASP.NET MVC and made a modified view system for the templates. It's a bit Frankenstein right now, but I think the idea is rather elegant. The templates are loaded dynamically from external files, and are cacheable. I'll write a proper blog post once I have a sample project to distribute with it.</Body>
+    <Link>archive/InProgress/2009/07/16/TakingJSTemplatesToTheNextLevel</Link>
+    <DatePublished>7/16/2009 8:08:39 PM</DatePublished>
+    <DateModified />
+    <Active>true</Active>
+  </InProgressPost>
+  <InProgressPost>
+    <Id>2372009222845375</Id>
+    <Title>Biomimicry, A Call To Arms</Title>
+    <Body>This entry is related to my earlier post on &lt;a href="http://skynetsoftware.net/archive/2009/07/23/TheSingularityIsNearer"&gt;modeling the human brain&lt;/a&gt;. I was reading a post on &lt;a href="http://brainz.org/15-coolest-cases-biomimicry/"&gt;biomimicry&lt;/a&gt;, and it seemed to eerily reflect my statement that we do not know much about natural mechanisms. Granted, these are great examples of optimizations we have made from observing nature, but we still have a lot to learn and build on. Progress in this area excites me, but it also aggravates me to think of what we still don't know... </Body>
+    <Link>archive/InProgress/2009/07/23/BiomimicryACallToArms</Link>
+    <DatePublished>7/23/2009 10:28:45 PM</DatePublished>
+    <DateModified />
+    <Active>true</Active>
+  </InProgressPost>
+</ArrayOfInProgressPost>

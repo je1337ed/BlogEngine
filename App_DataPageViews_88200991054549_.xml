@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPageView xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PageView>
+    <Id>0</Id>
+    <UserHostAddress>127.0.0.1</UserHostAddress>
+    <PageUrl>localhost:57717/Test/default.aspx</PageUrl>
+    <UserAgent>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; WOW64; Trident/4.0; Comcast Install 1.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.5.30729; .NET CLR 3.0.30618; .NET CLR 4.0.20506)</UserAgent>
+    <Browser>IE</Browser>
+    <Crawler>False</Crawler>
+    <Referrer />
+    <DateVisited>8/8/2009 9:10:05 AM</DateVisited>
+  </PageView>
+</ArrayOfPageView>

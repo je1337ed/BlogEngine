@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfInProgressComment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <InProgressComment>
+    <Id>1672009221536647</Id>
+    <InProgressPostId>107200904926819</InProgressPostId>
+    <User>test</User>
+    <Email>test</Email>
+    <HomePage>test</HomePage>
+    <Comment>comment</Comment>
+    <DatePublished>7/16/2009 10:15:36 PM</DatePublished>
+    <Active>false</Active>
+  </InProgressComment>
+  <InProgressComment>
+    <Id>1072009291339</Id>
+    <InProgressPostId>107200904926819</InProgressPostId>
+    <User>mea</User>
+    <Email />
+    <HomePage>sky</HomePage>
+    <Comment>comm</Comment>
+    <DatePublished>7/10/2009 2:09:01 AM</DatePublished>
+    <Active>false</Active>
+  </InProgressComment>
+  <InProgressComment>
+    <Id>1672009222841325</Id>
+    <InProgressPostId>107200904926819</InProgressPostId>
+    <User>test</User>
+    <Email>test</Email>
+    <HomePage>test</HomePage>
+    <Comment>The In Progress area will serve as a stream of consciousness for most of my ideas while I get a decent post in order. Think of this section as a mini blog post meets delicious meets twitter. </Comment>
+    <DatePublished>7/16/2009 10:28:41 PM</DatePublished>
+    <Active>false</Active>
+  </InProgressComment>
+</ArrayOfInProgressComment>

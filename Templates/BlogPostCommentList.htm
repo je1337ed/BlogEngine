@@ -1,0 +1,18 @@
+﻿     <# for (var ResultCount = 0; ResultCount < BlogPostComments.length; ResultCount++) { #>
+          <div>
+          <#=BlogPostComments[ResultCount].Id#><br />
+          <#=BlogPostComments[ResultCount].BlogPostId#><br />
+          <#=BlogPostComments[ResultCount].User#><br />
+          <#=BlogPostComments[ResultCount].Email#><br />
+          <#=BlogPostComments[ResultCount].HomePage#><br />
+          <#=BlogPostComments[ResultCount].Comment#><br />
+          <#=BlogPostComments[ResultCount].DatePublished#><br />
+          <#=BlogPostComments[ResultCount].DateModified#><br />
+          <#=BlogPostComments[ResultCount].Active#><br />
+          <# if(BlogPostComments[ResultCount].Active == true) { #>
+          <a href="#" onclick="DeactivateBlogPostComment(<#=BlogPostComments[ResultCount].Id#>);">Deactivate</a>
+          <# } else { #>
+          <a href="#" onclick="ActivateBlogPostComment(<#=BlogPostComments[ResultCount].Id#>);">Activate</a>
+          <# } #>
+          </div>
+     <# } #>

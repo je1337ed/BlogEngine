@@ -1,0 +1,18 @@
+﻿     <# for (var ResultCount = 0; ResultCount < Posts.length; ResultCount++) { #>
+          <div>
+          <#=Posts[ResultCount].Id#><br />
+          <#=Posts[ResultCount].Title#><br />
+          <#=Posts[ResultCount].Description#><br />
+          <#=Posts[ResultCount].Body#><br />
+          <#=Posts[ResultCount].Link#><br />
+          <#=Posts[ResultCount].DatePublished#><br />
+          <#=Posts[ResultCount].DateModified#><br />
+          <#=Posts[ResultCount].Active#><br />
+          <a href="#" onclick="AddEditBlogPostDraftForm(<#=Posts[ResultCount].Id#>);">Edit</a><br />
+          <# if(Posts[ResultCount].Active == true) { #>
+          <a href="#" onclick="DeactivateBlogPost(<#=Posts[ResultCount].Id#>);">Deactivate</a>
+          <# } else { #>
+          <a href="#" onclick="ActivateBlogPost(<#=Posts[ResultCount].Id#>);">Activate</a>
+          <# } #>
+          </div>
+     <# } #>

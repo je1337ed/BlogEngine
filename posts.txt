@@ -1,0 +1,36 @@
+﻿implement comment numbers and view comments on each post
+implement tags
+implement trackbacks
+implement archive index page
+
+add capability to in progress to add snippets, ideas, and comments from users
+replace feedjit with the database shown on matt berseth's page...
+limit posts shown on main page, limit text displayed on page, and add link to the bottom
+
+make a client side tab panel project and a short post on that
+had a problem with front end flexibility, didn't want to hit server again for each new tab
+and lazy loading the contents
+stripped out the back end and added load on click and a few other features
+
+//seperate ui from pure functionality
+//add support for many formats
+
+a good post:
+Upgrayedd My Code: Part 1
+ 
+I would consider myself a pretty good js dev overall, but all too often once code is 
+written and tested, it's hard to warrant going back and refactorng the codebase 
+if there's no immediate benefit. In the process of trying to become a better developer
+I've striven to make my code more readable, flexible, and extendable.
+
+I've written a few pieces of javascript code I consider to be cool and useful, but most of the time
+it's easy enough to just hardecode certain values, add a few functions and add a dom event to fire 
+off said functions. This is good enough, but once you try to build libraries and reuse your code,
+you spend more time making your code do what you need it to for any particular project. This becomes
+tedious, and wanting to work smarter and not harder, wouldn't it be better to make our projects more
+flexible in the first place? I took an old project I thought to be pretty cool, with an eye towards 
+applying what I've learned in the past few years to the project to make it more useful.
+
+Introducing SearchSmart
+
+

@@ -1,0 +1,8 @@
+﻿     <# for (var ResultCount = 0; ResultCount < PostTags.length; ResultCount++) { #>
+          <div>
+          <#=PostTags[ResultCount].PostId#><br />
+          <#=PostTags[ResultCount].TagId#><br />
+          <#=PostTags[ResultCount].Active#><br />
+          <a href="#" onclick="alert(<#=PostTags[ResultCount].PostId#>);">Post Id Id</a>
+          </div>
+     <# } #>

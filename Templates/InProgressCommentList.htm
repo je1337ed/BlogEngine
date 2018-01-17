@@ -1,0 +1,18 @@
+﻿     <# for (var ResultCount = 0; ResultCount < InProgressComment.length; ResultCount++) { #>
+          <div>
+          <#=InProgressComment[ResultCount].Id#><br />
+          <#=InProgressComment[ResultCount].InProgressPostId#><br />
+          <#=InProgressComment[ResultCount].User#><br />
+          <#=InProgressComment[ResultCount].Email#><br />
+          <#=InProgressComment[ResultCount].HomePage#><br />
+          <#=InProgressComment[ResultCount].Comment#><br />
+          <#=InProgressComment[ResultCount].DatePublished#><br />
+          <#=InProgressComment[ResultCount].DateModified#><br />
+          <#=InProgressComment[ResultCount].Active#><br />
+          <# if(InProgressComment[ResultCount].Active == true) { #>
+          <a href="#" onclick="DeactivateInProgressComment(<#=InProgressComment[ResultCount].Id#>);">Deactivate</a>
+          <# } else { #>
+          <a href="#" onclick="ActivateInProgressComment(<#=InProgressComment[ResultCount].Id#>);">Activate</a>
+          <# } #>
+          </div>
+     <# } #>

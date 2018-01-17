@@ -1,0 +1,8 @@
+﻿     <# for (var ResultCount = 0; ResultCount < Tags.length; ResultCount++) { #>
+          <div>
+          <#=Tags[ResultCount].Id#><br />
+          <#=Tags[ResultCount].BlogPostId#><br />
+          <#=Tags[ResultCount].User#><br />
+          <a href="#" onclick="alert(<#=Tags[ResultCount].Id#>);">Alert Id</a>
+          </div>
+     <# } #>

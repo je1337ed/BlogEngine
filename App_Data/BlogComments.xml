@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBlogPostComment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BlogPostComment>
+    <Id>2372009214520495</Id>
+    <BlogPostId>206200974335941</BlogPostId>
+    <User>anonymousdave</User>
+    <Email />
+    <HomePage />
+    <Comment>Listen, "Not Invented Here" is the Killer of Unborn Empires! Joel Spolsky, what have you done lately to warrant giving out new advice? Heh heh heh!</Comment>
+    <DatePublished>7/23/2009 9:45:20 PM</DatePublished>
+    <Active>true</Active>
+  </BlogPostComment>
+  <BlogPostComment>
+    <Id>1672009221612424</Id>
+    <BlogPostId>206200974139208</BlogPostId>
+    <User>test</User>
+    <Email>test</Email>
+    <HomePage>test</HomePage>
+    <Comment>comment</Comment>
+    <DatePublished>7/16/2009 10:16:12 PM</DatePublished>
+    <Active>false</Active>
+  </BlogPostComment>
+  <BlogPostComment>
+    <Id>206200974533576</Id>
+    <BlogPostId>206200974335941</BlogPostId>
+    <User>Siderite</User>
+    <Email>siderite@madnet.ro</Email>
+    <HomePage>siderite@madnet.ro</HomePage>
+    <Comment>Aaaaaah, "good friend". I feel fuzzy inside :)
+I am looking forward to real techie magic posts! I have high expectations from you, dude.</Comment>
+    <DatePublished>6/20/2009 7:45:37 AM</DatePublished>
+    <Active>true</Active>
+  </BlogPostComment>
+  <BlogPostComment>
+    <Id>1672009222932276</Id>
+    <BlogPostId>206200974139208</BlogPostId>
+    <User>test</User>
+    <Email>test</Email>
+    <HomePage>test</HomePage>
+    <Comment>Fast forward a decade later, and I've still kept an eye on the the community's leaders. I may not have role models so much, now that I'm in my late twenties, but I'm certainly still a fan of the people that are contributing quality content back into the community. I have to say that I'm pretty psyched when these kinds of ideas poke into the mainstream media. I hope more people start having non-conventional rock stars. Plus, these kinds of rock stars are a lot more likely to grab a bite or have a few drinks with you if you happen to bump into them. </Comment>
+    <DatePublished>7/16/2009 10:29:32 PM</DatePublished>
+    <Active>false</Active>
+  </BlogPostComment>
+  <BlogPostComment>
+    <Id>4122009205156574</Id>
+    <BlogPostId>1782009195748469</BlogPostId>
+    <User>Catto</User>
+    <Email>Catto@live.com</Email>
+    <HomePage>www.ChrisCatto.com</HomePage>
+    <Comment>Hey Now Jeff,
+
+Nice to post &amp; it was good to speak with you tonight.
+
+Thx 4 the info,
+Catto</Comment>
+    <DatePublished>12/4/2009 8:51:56 PM</DatePublished>
+    <Active>true</Active>
+  </BlogPostComment>
+</ArrayOfBlogPostComment>

@@ -1,0 +1,96 @@
+﻿/* <!-- */
+/* General styles */
+body
+{
+    margin: 0;
+    padding: 0;
+    border: 0; /* This removes the border around the viewport in old versions of IE */
+    width: 100%;
+    background: #fff;
+    min-width: 600px; /* Minimum width of layout - remove line if not required */ /* The min-width property does not work in old versions of Internet Explorer */
+    font-size: 90%;
+}
+/* MainHeader styles */
+#MainHeader
+{
+    clear: both;
+    float: left;
+    width: 100%;
+    border-bottom: 1px solid #000;
+}
+/* column container */
+.MainWrapperMask
+{
+    position: relative; /* This fixes the IE7 overflow hidden bug */
+    clear: both;
+    float: left;
+    width: 100%; /* width of whole page */
+    overflow: hidden; /* This chops off any overhanging divs */
+}
+/* common column settings */
+.Main
+{
+    float: left;
+    width: 100%;
+    position: relative;
+}
+.MainContentWrapper, .MainMenuWrapper
+{
+    float: left;
+    position: relative;
+    padding: 0 0 1em 0;
+    overflow: hidden;
+}
+/* 2 Column (left menu) settings */
+.MainWrapper
+{
+background:#C3D9FF;
+    /*background: blue;*/ /* right column background colour */
+}
+.MainWrapper .Main
+{
+    right: 75%; /* right column width */
+    background: white; /* left column background colour */
+}
+.MainWrapper .MainContentWrapper
+{
+    background: white; 
+    width: 71%; /* right column content width */
+    left: 102%; /* 100% plus left column left padding */
+}
+.MainWrapper .MainMenuWrapper
+{
+    background: #E0ECFF none repeat scroll 0 0; 
+    width: 21%; /* left column content width (column width minus left and right padding) */
+    left: 6%; /* (right column left and right padding) plus (left column left padding) */
+}
+
+.MainWrapper .MainMenuWrapper .MenuWidget
+{
+    border: 1px solid blue;
+    margin: 5px;
+}
+
+.MainWrapper .MainMenuWrapper .MenuSection
+{
+    padding:5px;
+}
+
+.MainWrapper .MainMenuWrapper .MenuHeader
+{
+    border-bottom: 1px solid blue;
+    background:white;
+}
+
+.MainWrapper .MainMenuWrapper .MenuItems
+{
+}
+/* Footer styles */
+#MainFooter
+{
+    clear: both;
+    float: left;
+    width: 100%;
+    border-top: 1px solid #000;
+}
+/* --> */

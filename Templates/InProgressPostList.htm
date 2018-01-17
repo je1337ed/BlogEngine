@@ -1,0 +1,16 @@
+﻿     <# for (var ResultCount = 0; ResultCount < InProgressPosts.length; ResultCount++) { #>
+          <div>
+          <#=InProgressPosts[ResultCount].Id#><br />
+          <#=InProgressPosts[ResultCount].Title#><br />
+          <#=InProgressPosts[ResultCount].Body#><br />
+          <#=InProgressPosts[ResultCount].DatePublished#><br />
+          <#=InProgressPosts[ResultCount].DateModified#><br />
+          <#=InProgressPosts[ResultCount].Active#><br />
+          <a href="#" onclick="AddEditInProgressPostDraftForm(<#=InProgressPosts[ResultCount].Id#>);">Edit</a><br />
+          <# if(InProgressPosts[ResultCount].Active == true) { #>
+          <a href="#" onclick="DeactivateInProgressPost(<#=InProgressPosts[ResultCount].Id#>);">Deactivate</a>
+          <# } else { #>
+          <a href="#" onclick="ActivateInProgressPost(<#=InProgressPosts[ResultCount].Id#>);">Activate</a>
+          <# } #>
+          </div>
+     <# } #>

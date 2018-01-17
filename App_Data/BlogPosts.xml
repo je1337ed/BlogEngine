@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBlogPost xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BlogPost>
+    <Id>206200974335986</Id>
+    <Title>First post on the new site</Title>
+    <Description>First Post</Description>
+    <Body>&lt;p&gt; Well, as I mentioned on my &lt;a href="http://meaflux.blogspot.com"&gt;old blog&lt;/a&gt;, I
+          will start posting and providing examples of my code on this site. I'm currently
+          looking around for a good blogging engine (I have DasBlog in mind), and once that's
+          up, I can start blogging in earnest without having to painstakingly craft my markup
+          (just kidding!).&lt;/p&gt;
+          
+          &lt;p&gt;In the meanwhile, I will be filling out the site and making some adjustments, so
+          be prepared for changes. Also, check out the project called &lt;a href="http://www.codeplex.com/UpdatePanelShrinker"&gt;
+              UpdatePanelShrinker
+          &lt;/a&gt; that a &lt;a href="http://siderite.blogspot.com"&gt;friend&lt;/a&gt;
+          and I put up last week... I'll be writing a lot more on that in the near future.&lt;/p&gt;
+</Body>
+    <Link>archive/2009/07/09/FirstPostOnTheNewSite</Link>
+    <DatePublished>Thursday, April 9, 2009</DatePublished>
+    <DateModified>7/9/2009 9:46:00 PM</DateModified>
+    <Active>true</Active>
+  </BlogPost>
+  <BlogPost>
+    <Id>206200974335963</Id>
+    <Title>Adding features to the site (slowly!)</Title>
+    <Description>Added rss and a barebones cms</Description>
+    <Body>&lt;p&gt;Well, there was a delay there between posts, but I had to choose between coding a few pet projects of mine and blogging, and coding won. After playing around with DasBlog a bit I got tired of it and just wrote my own little barebones cms (I'm using it now!) to work with the design of the site. &lt;/p&gt;
+&lt;p&gt;
+I also added an RSS feed and made it discoverable by firefox and internet explorer. I need to tweak the layout a bit and work on comments and searching and pingbacks and trackbacks and whatnot, but I think it's all coming together fairly well.&lt;/p&gt;</Body>
+    <Link>archive/2009/04/15/AddingFeaturesToTheSiteSlowly</Link>
+    <DatePublished>Wednesday, April 15, 2009</DatePublished>
+    <Active>true</Active>
+  </BlogPost>
+  <BlogPost>
+    <Id>206200974335941</Id>
+    <Title>Behind The Blog: An inside look at what it takes to Develop a blog engine from scratch</Title>
+    <Description>Me talking about my ongoing development of my own blog engine</Description>
+    <Body>&lt;p&gt;So, as I mentioned in the last entry, I've decided to write my own blog engine/cms from scratch as a result of getting curious while digging into the subtle nuances of DasBlog and other blogging engines. I'm telling myself it's simply curiosity and wanting to learn more about how these blog engines work, but I'd guess at least a part of it is attributable to a bit of egoism (otherwise known as the "Not Invented Here" Syndrome, although Joe Spolsky &lt;a href="http://www.joelonsoftware.com/articles/fog0000000007.html"&gt;defends it&lt;/a&gt; (in a way)). 
+&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;
+I would say that I'm guilty of NIH syndrome from time to time, but most of the time it's because I want to learn how things work, rather than just plugging in a black box and hoping I don't run into any problems. In any case, I've been learning a lot about blogs and other assorted things in the process, and that's a good thing as it makes me a better developer and moves me a bit outside of my &lt;a href="http://www.hanselman.com/blog/PaintFenceCutWoodPullWeedPlantTreeFindingGeekBalanceOutsideMyComfortZone.aspx"&gt;comfort zone&lt;/a&gt;.
+&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;
+First and foremost, a &lt;a href="http://siderite.blogspot.com"&gt;good friend&lt;/a&gt; of mine recommended I add an RSS feed to my blog. Now, although I've been navigating the intarwebs for a long time and I've been a developer for almost as long, I never really got the concept of RSS. I knew it was just some XML, and I'd written parsers for RSS to display news or other assorted information, but I never used an RSS client or saw a need to use one. In the process of writing the RSS feed generator for my site, I learned about the PubDate item in the RSS format and realized that when one subscribed to an RSS feed, one could automatically see when new content was added to the feed.&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;
+The way I was checking for new content was the same way I've been doing it for the last decade. I would just check my favorite sites and blogs once every week or two to see if the author had added new content. Not only is this needlessly using up bandwidth, but it's inefficient time wise as well. It's a small epiphany, but still I feel that I've added a valuable tool to my collection.
+&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;
+Second, I realized that packages like DasBlog do a lot more than I initially thought. I started adding comments and other assorted features to this blog and I see how much of a hassle it can be with comment spam and URL rewriting and the like. I suppose it's all for the best though, as I can post as I learn and share it.&lt;/p&gt;</Body>
+    <Link>archive/2009/04/24/BehindTheBlogAnInsideLookAtWhatItTakesToDevelopABlogEngineFromScratch</Link>
+    <DatePublished>Friday, April 24, 2009</DatePublished>
+    <Active>true</Active>
+  </BlogPost>
+  <BlogPost>
+    <Id>206200974335937</Id>
+    <Title>Content Changes</Title>
+    <Description />
+    <Body>&lt;p&gt;
+Alright, after a little break from posting and a lot of coding, I have a lot of 
+stuff to blog about. First off, I realize with the way I go about trying flesh out new ideas, 
+I should really have a list of content for some of the things I'm working on. 
+I was thinking of using twitter for most of these ideas and partial projects, 
+but for now I'm going put most of these small bits on my In progress page. It will be a place 
+for stuff that's in limbo until I get ready to post something complete. I'll eventually add 
+commenting and other features to this section too, to get additional feedback.
+&lt;/p&gt;&lt;br /&gt;&lt;p&gt;
+Second, I added a link to etherpad, where I will put code snippets and check comments occasionally.
+I've found this site great for collaborating and sharing ideas. I really like it, and I think 
+eventually I'm going to add similar functionality to this site.
+&lt;/p&gt;&lt;br /&gt;&lt;p&gt;
+Third, I added a form to the contact page, and email alerts to the comments so I can keep track of them. 
+&lt;/p&gt;&lt;br /&gt;&lt;p&gt;
+Fourth, Archive now shows months that I added posts, yay!
+&lt;/p&gt;</Body>
+    <Link>archive/2009/06/07/ContentChanges</Link>
+    <DatePublished>Sunday, June 7, 2009</DatePublished>
+    <Active>true</Active>
+  </BlogPost>
+  <BlogPost>
+    <Id>206200974246878</Id>
+    <Title>Sys.Net.WebServiceProxy.invoke wrapper for jQuery</Title>
+    <Description />
+    <Body>&lt;p&gt;So, after reading Encosia's blog post on using the jQuery library
+as an alternative to the ScriptManager's Sys.Net.WebServiceProxy.invoke method
+and wanting to rid myself of 300k worth of js required by the ScriptManager,
+I decided to try it out. I had some issues with the serialization of JSON objects
+other than direct parameters, but overall found the approach much more elegant. 
+&lt;/p&gt;&lt;br /&gt;&lt;p&gt;
+However, I had a lot of legacy js that was using the WebServiceProxy.invoke method.
+The long term solution is to rewrite the code to reflect the change to jQuery, but
+as a short term solution, I wrote this little wrapper so basically you could just 
+remove the ScriptManager, add a reference to the jQuery library, and just chug along.
+&lt;/p&gt;&lt;br /&gt;
+&lt;pre class="brush: jscript"&gt;
+    var Sys = {
+        Net: {
+            WebServiceProxy: {
+                invoke: function invoke(path, methodName, useHttpGet, parameters, succeededCallback,
+                failedCallback, userContext, timeout) {
+                    if (typeof parameters !== "string") {
+                        parameters = JSON.stringify(parameters);
+                    }
+                    $.ajax({
+                        type: "POST",
+                        url: path + "/" + methodName,
+                        data: parameters,
+                        contentType: "application/json; charset=utf-8",
+                        dataType: "json",
+                        error: function(result) { failedCallback(result); },
+                        success: function(result) { succeededCallback(result.d); }
+                    });
+                }
+            }
+        }
+    };
+&lt;/pre&gt;</Body>
+    <Link>archive/2009/06/07/SysnetwebserviceproxyinvokeWrapperForJquery</Link>
+    <DatePublished>Sunday, June 7, 2009</DatePublished>
+    <Active>true</Active>
+  </BlogPost>
+  <BlogPost>
+    <Id>206200974139208</Id>
+    <Title>Our rock stars aren't like your rock stars</Title>
+    <Description>Non-conventional Rock Stars</Description>
+    <Body>&lt;p&gt;
+I may a bit late to the game on this one, but I think I just saw the best. 
+&lt;a href="http://www.youtube.com/watch?v=jqLPHrCQr2I" target="_blank"&gt;advertisement.&lt;/a&gt; evar. 
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+The gist of the commercial is that at Intel, they tend to be fans of people that have made
+accomplishments in the tech community, rather than your everyday rock stars, sports stars, 
+or other assorted celebrities. I've had many coworkers and techie cohorts surprised that I not 
+only mention specific names in the tech community frequently , but that I also describe myself 
+as a fan of those people. I guess this strikes people as odd, but I'm a lot more likely to be 
+star struck by the likes of &lt;a href="http://hanselman.com/blog" target="_blank"&gt;Scott Hanselman&lt;/a&gt; 
+or &lt;a href="http://ejohn.org/" target="_blank"&gt;John Resig&lt;/a&gt; than, say, Paris Hilton. 
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+I think this really started back in the days of TechTV, when I first started seeing 
+&lt;a href="http://leoville.com/" target="_blank"&gt;Leo Laporte&lt;/a&gt; in
+action. As a young techie, I had trouble explaining complex technical ideas to laypeople. I really
+admired how he seemed to have a rapport with people, didn't seem condescending, and most of all, knew
+what he was talking about. In other words, he was a great role model for budding geeks. 
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+Fast forward a decade later, and I've still kept an eye on the the community's leaders. I may
+not have role models so much, now that I'm in my late twenties, but I'm certainly still a fan
+of the people that are contributing quality content back into the community. I have to say that
+I'm pretty psyched when these kinds of ideas poke into the mainstream media. I hope more people
+start having non-conventional rock stars. Plus, these kinds of rock stars are a lot more likely 
+to grab a bite or have a few drinks with you if you happen to bump into them.
+&lt;/p&gt;</Body>
+    <Link>archive/2009/06/13/OurRockStarsArentLikeYourRockStars</Link>
+    <DatePublished>Saturday, June 13, 2009</DatePublished>
+    <Active>true</Active>
+  </BlogPost>
+  <BlogPost>
+    <Id>177200922542409</Id>
+    <Title>Exploring JS Templates : Part 1</Title>
+    <Description>Delving into Javascript Templates</Description>
+    <Body>&lt;p&gt;As I mentioned in &lt;a href="http://skynetsoftware.net/archive/InProgress/2009/07/16/TakingJSTemplatesToTheNextLevel"&gt;one&lt;/a&gt; of my In Progress posts, I've been playing around with templating in JS and the different approaches taken by &lt;a href="http://weblogs.asp.net/bleroy/archive/2008/07/30/using-client-templates-part-1.aspx"&gt;Microsoft&lt;/a&gt; and &lt;a href="http://ejohn.org/blog/javascript-micro-templating/"&gt;others&lt;/a&gt;. Well, I finally finished my first sample project for my site. It's a rough draft, so be gentle. In the near future, I plan on consolidating the code into a prototype and refactoring it in the process. Let me begin with my my idea and how it developed.
+&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;p&gt;When I started playing around with Microsoft's client templates, I started with the dataview and wanted to tweak it a bit to load templates on the fly. When you have a full fledged AJAX application, you generally find yourself wanting to pull a lot of data dynamically and it'd be nice to do that with a framework, as opposed to making separate pages for different content. I'm going to circle back to the Microsoft code in the near future, but I started looking for a lightweight alternative I could use to test my idea. Enter John Resig's Micro-Templating Example. The first modification to his his code was to use &lt;# #&gt; instead of &lt;% %&gt; was to maintain compatibility with existing ASP.NET markup. After that I worked on loading a script with a type of "text/html" element from an external URL. This has the added benefit of full intellisense for markup in your external template file. Loading templates from an external file also allows you to cache existing templates, which can be a performance boost if you end up adding a lot of templates. 
+&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;p&gt;I've implemented this approach in my admin panel for this blog. Drafts, activation, editing, etc. are all handled using this system. It works surprisingly well and allows me to further seperate code from the UI. I will continue to update this example project and post on changes in the codebase and any optimizations I make.
+&lt;br /&gt;&lt;br /&gt;
+You can download the project &lt;a href="http://skynetsoftware.net/Projects/JsTemplateSample.zip"&gt;here&lt;/a&gt;.
+&lt;/p&gt;</Body>
+    <Link>archive/2009/07/17/ExploringJSTemplatesPart1</Link>
+    <DatePublished>7/17/2009 10:54:02 PM</DatePublished>
+    <DateModified />
+    <Active>false</Active>
+  </BlogPost>
+  <BlogPost>
+    <Id>1772009231849826</Id>
+    <Title>Exploring JS Templates : Part 1</Title>
+    <Description>Delving into JavaScript Templates</Description>
+    <Body>&lt;p&gt;As I mentioned in &lt;a href="http://skynetsoftware.net/archive/InProgress/2009/07/16/TakingJSTemplatesToTheNextLevel"&gt;one&lt;/a&gt; of my In Progress posts, I've been playing around with templating in JS and the different approaches taken by &lt;a href="http://weblogs.asp.net/bleroy/archive/2008/07/30/using-client-templates-part-1.aspx"&gt;Microsoft&lt;/a&gt; and &lt;a href="http://ejohn.org/blog/javascript-micro-templating/"&gt;others&lt;/a&gt;. Well, I finally finished my first sample project for my site. It's a rough draft, so be gentle. In the near future, I plan on consolidating the code into a prototype and refactoring it in the process. Let me begin with my my idea and how it developed.
+&lt;/p&gt;&lt;br /&gt;
+&lt;p&gt;When I started playing around with Microsoft's client templates, I started with the dataview and wanted to tweak it a bit to load templates on the fly. When you have a full fledged AJAX application, you generally find yourself wanting to pull a lot of data dynamically and it'd be nice to do that with a framework, as opposed to making separate pages for different content if you're just updating a widget. I'm going to circle back to the Microsoft code in the near future, but I started looking for a lightweight alternative I could use to test my idea. Enter John Resig's Micro-Templating Example. The first modification to his his code was to use &lt;# #&gt; instead of &lt;% %&gt; to maintain compatibility with existing ASP.NET markup. After that I worked on loading a script element with a type of "text/html" from an external URL. This has the added benefit of full intellisense for markup in your external template file (which you lose with inline text/html script tags since Visual Studio doesn't know how to interpret the element). Loading templates from an external file also allows you to cache existing templates, which can be a performance boost if you end up adding a lot of templates or don't have a CDN of your own. 
+&lt;/p&gt;&lt;br /&gt;
+&lt;p&gt;I've implemented this approach in my admin panel for this blog. Drafts, activation, editing, etc. are all handled using this system. It works surprisingly well considering that it's a prototype, and allows me to further seperate code from the UI. I will continue to update this example project and post on changes in the codebase and any optimizations I make.
+&lt;br /&gt;&lt;br /&gt;
+You can download the project &lt;a href="http://skynetsoftware.net/Projects/JsTemplateSample.zip"&gt;here&lt;/a&gt;.
+&lt;/p&gt;</Body>
+    <Link>archive/2009/07/17/ExploringJSTemplatesPart1</Link>
+    <DatePublished>7/17/2009 11:18:49 PM</DatePublished>
+    <DateModified />
+    <Active>true</Active>
+  </BlogPost>
+  <BlogPost>
+    <Id>18720090503675</Id>
+    <Title>Fighting Blog Spam</Title>
+    <Description>An analysis of blog spam attempts</Description>
+    <Body>&lt;p&gt;So before my blog even gets a decent following, I'm noticing spam. This is just a little information that caught my attention, so I figured I'd share it.
+&lt;/p&gt;&lt;br /&gt;
+&lt;p&gt;
+At 4:45PM on 7/6/2009, I got my second comment on my blog for a post (&lt;a href="http://skynetsoftware.net/archive/2009/04/24/BehindTheBlogAnInsideLookAtWhatItTakesToDevelopABlogEngineFromScratch"&gt;Behind The Blog: An Inside Look At What It Takes To Develop A Blog Engine From Scratch&lt;/a&gt;). I was exited until I looked at the text of the message:&lt;br /&gt;
+&lt;i&gt;"How soon will you update your blog? I'm interested in reading some more information on this issue."&lt;/i&gt;&lt;br /&gt;
+from a certain KonstantinMiller with a .cn email address and a homepage of http://www.google.com... My curiosity being piqued now, I fired up google and searched for the email address entered for the comment. Lo and behold, the &lt;a href="http://nortalktoowise.110mb.com/?tag=scam-sniffing"&gt;top result&lt;/a&gt; was a post from a blogger who noticed the same thing as me and provided some pretty detailed info on the party behind the spamming (Including the idea that this person is probably located in Moldova). If that wasn't enough, the rest of the first page of results had the word spam in pretty much every description. 
+&lt;/p&gt;&lt;br /&gt;
+&lt;p&gt;
+It doesn't stop there though. Now that I verified that this seemingly innocuous comment was a seed for future spam, I was interested in figuring out the details behind this tactic. I put &lt;a href="http://feedjit.com/"&gt;FEEDJIT&lt;/a&gt; on my site from the very beginning, since I wanted to see where people were coming from and what they were searching for to get to my blog. Knowing that I could get the info for recent visitors to the site, I pulled up the tracking page and looked through the log. I saw two very odd entries, one visitor that got to my site from search.live.com from the phrase "about" and one visitor from search.live.com on the phrase "contact". Both of these visitations were within 24 hours of the posting of curious comment, and apparently they originated from Moldova. 
+&lt;/p&gt;&lt;br /&gt;
+&lt;p&gt;
+So now I've formed a pattern in my head. From what I've figured out, this spammer initially spiders a search engine or multiple search engines for common phrases in web sites (and I'm guessing blogs in particular) for common key words. Almost every blog is going to have an about me/us page and a contact page (where an email address can likely be obtained) and therefore a vague search term like "about" can dredge up tons of blogs in a targeted fashion. Then the spider adds a vague and innocuous looking comment with an email address and user name that is unique and can be searched at a later date. I'm guessing that if their initial comment makes it through long enough to get indexed by Google, it's probably a worthwhile blog to spam, as the owner of the blog is likely either absent, oblivious, or not too sharp. Then they commence with the full scale assault.
+&lt;/p&gt;&lt;br /&gt;
+&lt;p&gt;
+The bothersome thing about this tactic is that if the party involved used a .com or another common TLD that didn't draw attention and used a contact name and email address that was randomly generated from a preset list or stored after a test post, it would be neigh impossible to proactively block them. This type of initial post would slip through any Bayesian filter you could set up, and unless you flagged generic posts as spam, there's really no way to stop this, shy of manually approving every comment on your blog. I have the luxury of being able to manually approve comments, but other blogs that have a large following will be bothered by this immensely.
+&lt;/p&gt;&lt;br /&gt;
+&lt;p&gt;
+Update: I'm still seeing generic search terms resulting in visitations, but now it's coming from an IP in the US... Either this person is changing tactics or someone else is using a similar plan of attack.
+&lt;/p&gt;</Body>
+    <Link>archive/2009/07/18/FightingBlogSpam</Link>
+    <DatePublished>7/18/2009 12:50:03 AM</DatePublished>
+    <DateModified>7/18/2009 1:19:59 AM</DateModified>
+    <Active>true</Active>
+  </BlogPost>
+  <BlogPost>
+    <Id>237200921229946</Id>
+    <Title>The Singularity Is Nearer</Title>
+    <Description>A reflection on AI research</Description>
+    <Body>&lt;p&gt;
+According to Professor Henry Markram, a &lt;a href="http://blog.ted.com/2009/07/henry_markram_a.php"&gt;digital model of brain&lt;/a&gt; is merely 10 years away. I've read a few books ( 
+&lt;a href="http://en.wikipedia.org/wiki/The_Age_of_Spiritual_Machines"&gt;The Age of Spiritual Machines&lt;/a&gt; and &lt;a href="http://en.wikipedia.org/wiki/The_Singularity_is_Near"&gt;The Singularity is Near&lt;/a&gt; ) by &lt;a href="http://en.wikipedia.org/wiki/Raymond_Kurzweil"&gt;Ray Kurzweil&lt;/a&gt;, and it looks like he was pretty close when he predicted the date of the first model of the human brain. If I recall correctly, Kurzweil estimated that according to Moore's Law, the computing power required to run a simulation of a human brain would be achieved around the year 2020. 
+&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;
+Of course I'm being optimistic in my reception of the news, but I can't help but be excited. I'm receptive to the idea that once we can realistically scan the human brain and create a realistic simulation based on that data, we can start to analyze and replicate human consciousness from a bottom up approach. I realize that there is a lot more to creating a true AI than merely simulating neurons, but it's a decent start on the path to a possible singularity. I realize that from a skeptic's point of view, Moore's Law is broken, but with advances being made in parallel programming, I believe that we can still achieve some phenomenal feats in regards to computing power. As Professor Markram could point out, as long as there are enough processors, a realistic number of neurons can be simulated.  
+&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;
+The fact of the matter is that our knowledge of natural mechanisms is still very limited at this time. I'm sure that once we can model and analyze these mental processes, we can develop simpler algorithms to achieve the same behaviors. At that time, I expect us to make great inroads towards using subsets of these processes to accomplish tasks which seem impossible for computers to achieve now. &lt;a href="http://en.wikipedia.org/wiki/Machine_vision"&gt;Machine vision&lt;/a&gt;, &lt;a href="http://en.wikipedia.org/wiki/Fine_motor_skill"&gt;fine motor skills&lt;/a&gt;, and many other domains would more than likely be drastically advanced using this technology. Again, the skeptic in me wants to debate the possibility of this actually occurring, but the optimist in me wants to realize the benefits this technology possibly offers. As with all matters this complex, there are many opinions, and only time will prove the correct parties right. Here's hoping to an AI that passes the Turing test within my lifetime!
+&lt;/p&gt;</Body>
+    <Link>archive/2009/07/23/TheSingularityIsNearer</Link>
+    <DatePublished>7/23/2009 9:02:29 PM</DatePublished>
+    <DateModified />
+    <Active>true</Active>
+  </BlogPost>
+  <BlogPost>
+    <Id>267200918346636</Id>
+    <Title>Tracking Pageview Data Using System.Web.Routing With ASP.NET Webforms</Title>
+    <Description>Tracking pageviews accurately</Description>
+    <Body>&lt;p&gt;
+Well... I loved the idea of creating restful URLs with the system.web.routing library for regular ASP.NET webforms. But, upon checking out my Google analytics reports, I realized a discrepancy between my FEEDJIT data and my Google analytics data. After traversing a few choice pages of the site myself, verifying that the JavaScript was loading,  and waiting to see the results, I saw that there was definitely a discrepancy somewhere. I don't know what the issue is, but apparently Google analytics only tracks visitations to my main URL and the in progress page. 
+&lt;/p&gt;&lt;br /&gt;&lt;p&gt;
+I checked this a few times, and there's definitely an issue with Google analytics. I don't know if the routing library is the problem, but from my tests I get the referrer info properly from JavaScript. I can only assume there is some bug in Google analytics related to my key or my content.. It's hard to say since I didn't write any of that code (That's why I hate black box type of systems, you can never really learn what's going on, and it's a pain when you want to debug an obvious issue.). Anyways, I took a cue from &lt;a href="http://mattberseth.com/blog/2008/09/maintaining_my_own_pageviewvis.html"&gt;Matt Berseth&lt;/a&gt; (Another blog I frequent), and set up my own page view tracker to analyze my pageview data. 
+&lt;/p&gt;&lt;br /&gt;&lt;p&gt;
+I was originally going to use a JavaScript and page handler system like Matt did, but I realized that mobile clients, people who use various Firefox extensions to block JavaScript, spiders (Which I'm interested in tracking as well), and lynx users (That's a joke!) probably would render this method impotent. I needed a better system, and predictably enough, asp.net webforms had all of the infrastructure necessary to perform this task. all I needed to do is record values for the following items:
+&lt;/p&gt;&lt;br /&gt;&lt;p&gt;
+&lt;pre class="brush: c#"&gt;
+Request.ServerVariables["HTTP_HOST"] + Request.ServerVariables["URL"]
+Request.UserHostAddress
+Request.UserAgent
+Request.Browser.Browser
+Request.Browser.Crawler
+Request.UrlReferrer
+&lt;/pre&gt;&lt;/p&gt;&lt;br /&gt;&lt;p&gt;
+which yields results resembling this:
+&lt;/p&gt;&lt;br /&gt;&lt;p&gt;
+Page Url: skynetsoftware.net/default.aspx&lt;br /&gt;
+Host Address: (Some ip address)&lt;br /&gt;
+User Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; WOW64; Trident/4.0; Comcast Install 1.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.5.30729; .NET CLR 3.0.30618; .NET CLR 4.0.20506)&lt;br /&gt;
+Browser: IE&lt;br /&gt;
+crawler: False&lt;br /&gt;
+Referrer: http://www.google.com/search?hl=en&amp;q=Skynet+Software
+&lt;/p&gt;&lt;br /&gt;&lt;p&gt;
+After this I just used my existing methods for serializing and reporting data and it was a snap. I now have a generic page for reporting this data, but i will write some LINQ stuff in the near future to give myself more detailed reports on pageview data. I'll probably use canvas for visualization and do some other cool stuff. I've got a few ideas I'm rolling around, but for now I'm just satisfied that I have accurate data to analyze. In retrospect, I could contact Google and try to figure out why the data is inaccurate, but I feel slightly guilty requesting support for a feature I'm not paying for!  ;)
+&lt;/p&gt;</Body>
+    <Link>archive/2009/07/26/TrackingPageviewDataUsingSystemwebroutingWithASPNETWebforms</Link>
+    <DatePublished>7/26/2009 6:34:06 PM</DatePublished>
+    <DateModified>7/26/2009 6:36:54 PM</DateModified>
+    <Active>true</Active>
+  </BlogPost>
+  <BlogPost>
+    <Id>1782009195748469</Id>
+    <Title>Javascript Client Side Search Grid Control</Title>
+    <Description>Awesomeness Encoded</Description>
+    <Body>&lt;p&gt;
+Alright, this is long overdue, but I've finally created a sample project for a bit of code I've found very useful over the course of the last two plus years. This code is a generic method of searching a sizable amount of JSON data on the client side. I've made many optimizations to this codebase over the years, but I figured that I should start at the beginning and share the ways that I've optimized this control. I think this should illustrate a common process for many of us, in that this project fulfilled a simple need originally, and then as the scope increased and changed, I had to expand upon the flexibility and extensibility of the control.
+&lt;/p&gt;&lt;br /&gt;&lt;p&gt;
+Originally, I was tasked with a simple side project of making a one off web app to search contact information of the company I was contracting for internally. The one strict requirement was that the search be full text search, such that if the text entered on the client side matched any portion in any position of the row, it would be displayed. I started with a normal database search, but when I saw the amount of data being searched, I wondered if it wouldn't be prudent to constrain the app to the client, and just search and load the results as the user was typing. 
+&lt;/p&gt;&lt;br /&gt;&lt;p&gt;
+I took a small amount of JSON data and made a prototype app to search it. When I saw the speed with witch it took the search code to find a match, I realized I had hit upon something. I expanded the amount of data, and saw that even with a full search with multiple tokens on the JSON dataset, the searching took milliseconds on the client side, with even modest requirements.
+&lt;/p&gt;&lt;br /&gt;&lt;p&gt;
+With the version that I am posting right now, the capability of the existing code to search client records takes a very negligible amount of time on around 5k records instantaneously. In the most recent incarnations, the size of the search-able JSON dataset is approaching 40k plus rows with 7+ columns. That seems like a very useful tool when you consider JSON data cached from external links. With URL rewriting and some other optimizations, I foresee the code being able to search tens of thousands and potentially hundreds of thousands of records near instantaneously on the client side.
+&lt;/p&gt;&lt;br /&gt;&lt;p&gt;
+Needless to say, this kind of technology could make sites like Google infinitely more accessible. An intuitive way of searching data instantly would be a boon for many users, especially once they grasp the capabilities of such a system. I have started writing a series of posts to come after this one on the various ways I have upgraded and extended the code. I hope to post them soon. Oh, also, within the next week I'll have a demo area up too, that way you can see what the code is doing.
+&lt;br /&gt;&lt;br /&gt;
+You can download the project &lt;a href="http://skynetsoftware.net/Projects/JSONSearchGridExample.zip"&gt;here&lt;/a&gt;.
+&lt;/p&gt;</Body>
+    <Link>archive/2009/08/17/JavascriptClientSideSearchGridControl</Link>
+    <DatePublished>8/17/2009 7:57:48 PM</DatePublished>
+    <DateModified>8/17/2009 8:06:05 PM</DateModified>
+    <Active>true</Active>
+  </BlogPost>
+</ArrayOfBlogPost>

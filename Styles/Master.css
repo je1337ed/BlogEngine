@@ -1,0 +1,100 @@
+﻿body,html ,form{
+	margin:0px;
+	padding:0px;
+	height:100%;
+	min-width:776px;
+}
+body
+{
+	background-color: #000000;
+	background-image: url('../Images/Global.jpg');
+	background-repeat: no-repeat;
+	background-position: center top;
+	font-family: Verdana;
+	font-size: 10px;
+	color: #FFFFFF;
+}
+ul
+{
+	margin:0px 0px 0px 10px;
+	padding:0px 0px 0px 10px;
+}
+p
+{
+	text-align: justify;
+	padding: 0px;
+	margin: 0px;
+}
+#Main
+{
+	width:776px;
+	margin: 0px auto 0px auto;	
+	min-height: 100%;
+}
+#Nav
+{
+	margin-top: 124px;	
+	border-bottom: 1px solid #6EC0FF;
+	text-align: right;
+	padding-right: 100px;
+}
+#Nav a
+{
+	line-height: 14px;
+	display: inline-block;
+	padding: 0px 20px 0px 20px;
+	color: #FFFFFF;
+	background-color: #000000;
+	border: 1px solid #6EC0FF;
+	border-width: 1px 1px 0px 1px;
+	margin-left: 10px;
+	text-decoration: none;
+}
+#Nav a:hover
+{
+	background-color: #FFFFFF;
+	color: #000000;
+}
+#Table1
+{
+	width: 100%;
+}
+#Cell1
+{
+	width: 75%;
+	vertical-align: top;
+}
+#Cell2
+{
+	width:25%;
+	vertical-align: top;
+}
+.ContentTitleCell
+{
+	line-height: 14px;
+	border: 1px solid #6EC0FF;
+	border-width: 1px 1px 0px 1px;
+	padding:  0px 4px 0px 4px ;
+}
+.ContentCell
+{
+	line-height: 14px;
+	border: 1px solid #6EC0FF;
+	padding: 10px;
+	margin-bottom: 20px;
+	color: #FFFFFF;
+}
+
+ContentCell h3 a
+{
+ text-decoration:none;
+}
+
+.ContentCell a
+{
+	color: #6EC0FF;
+}
+.ContentCell a:hover
+{
+	color: #BBE1FF;
+}

@@ -1,0 +1,93 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Skynet Software</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link rel="Stylesheet" type="text/css" href="Styles/Master.css" />
+    <link type="text/css" rel="stylesheet" href="styles/shCore.css"/>
+	<link type="text/css" rel="stylesheet" href="styles/shThemeDefault.css"/>
+    <link rel="alternate" type="application/rss+xml" title="RSS Feed for Jeff Blake's blog" href="rss.aspx" />
+</head>
+<body>
+    <form id="Form1" runat="server">
+    <div id="Main">
+        <div id="Nav">
+            <asp:HyperLink ID="hlHome" runat="server" NavigateUrl="~/Default.aspx">Home</asp:HyperLink>
+            <asp:HyperLink ID="hlProjects" runat="server" NavigateUrl="~/InProgress.aspx">In Progress</asp:HyperLink>
+            <asp:HyperLink ID="hlAbout" runat="server" NavigateUrl="~/About.aspx">About</asp:HyperLink>
+            <asp:HyperLink ID="hlContact" runat="server" NavigateUrl="~/Contact.aspx">Contact</asp:HyperLink>
+        </div>
+        <table cellpadding="0" cellspacing="20" border="0" id="Table1">
+            <tr>
+                <td id="Cell1">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </td>
+                <td id="Cell2">
+                    <div class="ContentTitleCell">
+                        RSS Feed</div>
+                    <div class="ContentCell">
+                        <a href="http://feeds2.feedburner.com/JeffBlake" style="text-decoration: none;" target="_blank">
+                            <asp:Image ID="imgFeed" runat="server" ImageUrl="~/images/feed-icon16x16.png" 
+                            AlternateText="feed icon" style="border: none;"/>
+                        </a>
+                    </div>
+                    <div class="ContentTitleCell">
+                        Blog Roll</div>
+                    <div class="ContentCell">
+                        <ul>
+                            <li><a href="http://hanselman.com/blog" target="_blank">Scott Hanselman's Blog</a></li>
+                            <li><a href="http://siderite.blogspot.com" target="_blank">Siderite's Blog</a></li>
+                            <li><a href="http://weblogs.asp.net/bleroy/" target="_blank">Bertrand Le Roy's Blog</a></li>
+                            <li><a href="http://encosia.com" target="_blank">Dave Ward's Blog (Encosia)</a></li>
+                            <li><a href="http://ejohn.org/" target="_blank">John Resig's Blog</a></li>
+                            <li><a href="http://www.iunknown.com/" target="_blank">John Lam's Blog</a></li>
+                        </ul>
+                    </div>
+                    <div class="ContentTitleCell">
+                        Resources</div>
+                    <div class="ContentCell">
+                        <ul>
+                            <li><a href="http://etherpad.com/skynet" target="_blank">My Etherpad link</a></li>
+                        </ul>
+                    </div>
+                    <div class="ContentTitleCell">
+                        Live Traffic Feed</div>
+                    <div class="ContentCell">
+
+                        <script type="text/javascript" src="http://feedjit.com/serve/?bc=000000&amp;tc=6EC0FF&amp;brd1=000000&amp;lnk=6EC0FF&amp;hc=000000&amp;ww=200"></script>
+
+                        <noscript>
+                            <a href="http://feedjit.com/">Feedjit Live Blog Stats</a></noscript>
+                    </div>
+                    <div class="ContentTitleCell">
+                        Archives</div>
+                    <div class="ContentCell">
+                    <asp:Panel ID="pnlArchive" runat="server"></asp:Panel>
+                    </div>
+                    <div class="ContentTitleCell">
+                        Affiliates</div>
+                    <div class="ContentCell">
+                        <a href="http://antisanity.net" target="_blank">Antisanity.net</a>
+                    </div>
+                </td>
+            </tr>
+        </table>
+    </div>
+    <asp:Panel ID="pnlScripts" runat="server"></asp:Panel>
+    </form>
+    <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        try {
+            var pageTracker = _gat._getTracker("UA-7888609-1");
+            pageTracker._trackPageview();
+        } catch (err) { }
+        SyntaxHighlighter.config.clipboardSwf = 'scripts/clipboard.swf';
+        SyntaxHighlighter.all();
+</script>
+</body>
+</html>
